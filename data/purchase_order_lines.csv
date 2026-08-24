@@ -1,0 +1,812 @@
+﻿po_line_id,purchase_order_id,line_number,product_id,ordered_qty,received_qty,unit_cost,quality_status,line_note
+POL000002-1,PO000002,1,PRD013,150,150,1.20,accepted,Routine replenishment
+POL000002-2,PO000002,2,PRD008,50,50,1.31,accepted,Inspection certificate required
+POL000004-1,PO000004,1,PRD017,400,400,5.07,accepted,Routine replenishment
+POL000004-2,PO000004,2,PRD015,25,25,2.29,accepted,Expedite requested by planner
+POL000006-1,PO000006,1,PRD013,250,200,1.69,conditional,Inspection certificate required
+POL000006-2,PO000006,2,PRD017,1200,1200,4.86,accepted,Expedite requested by planner
+POL000007-1,PO000007,1,PRD018,600,547,2.24,rejected,Expedite requested by planner
+POL000007-2,PO000007,2,PRD001,250,250,2.13,rejected,Routine replenishment
+POL000008-1,PO000008,1,PRD017,300,243,3.30,accepted,Expedite requested by planner
+POL000008-2,PO000008,2,PRD009,1000,1000,1.13,accepted,Inspection certificate required
+POL000009-1,PO000009,1,PRD010,125,125,0.96,accepted,Partial receipt allowed
+POL000009-2,PO000009,2,PRD013,800,800,1.37,accepted,Routine replenishment
+POL000010-1,PO000010,1,PRD015,150,150,2.26,accepted,Partial receipt allowed
+POL000011-1,PO000011,1,PRD004,200,200,1.60,accepted,Partial receipt allowed
+POL000012-1,PO000012,1,PRD003,150,136,0.54,accepted,Expedite requested by planner
+POL000013-1,PO000013,1,PRD005,175,175,1.63,accepted,Expedite requested by planner
+POL000013-2,PO000013,2,PRD020,600,600,4.21,rejected,Inspection certificate required
+POL000015-1,PO000015,1,PRD016,500,423,4.41,accepted,Routine replenishment
+POL000016-1,PO000016,1,PRD009,125,125,1.33,accepted,Routine replenishment
+POL000016-2,PO000016,2,PRD010,250,250,0.57,accepted,Inspection certificate required
+POL000016-3,PO000016,3,PRD017,150,150,4.97,accepted,Partial receipt allowed
+POL000017-1,PO000017,1,PRD014,50,50,2.69,rejected,Routine replenishment
+POL000018-1,PO000018,1,PRD016,800,800,3.97,accepted,Partial receipt allowed
+POL000019-1,PO000019,1,PRD020,1400,1400,4.21,accepted,Inspection certificate required
+POL000021-1,PO000021,1,PRD020,300,300,3.03,accepted,Inspection certificate required
+POL000022-1,PO000022,1,PRD004,300,300,1.33,accepted,Partial receipt allowed
+POL000024-1,PO000024,1,PRD006,25,21,1.00,accepted,Partial receipt allowed
+POL000025-1,PO000025,1,PRD008,1400,1400,1.85,accepted,Routine replenishment
+POL000026-1,PO000026,1,PRD018,100,100,2.24,accepted,Partial receipt allowed
+POL000026-2,PO000026,2,PRD004,50,50,2.28,accepted,Inspection certificate required
+POL000026-3,PO000026,3,PRD001,350,350,2.13,accepted,Expedite requested by planner
+POL000027-1,PO000027,1,PRD008,50,50,1.31,accepted,Expedite requested by planner
+POL000028-1,PO000028,1,PRD004,700,700,1.33,accepted,Inspection certificate required
+POL000029-1,PO000029,1,PRD005,75,60,1.63,accepted,Partial receipt allowed
+POL000029-2,PO000029,2,PRD020,1200,1133,4.21,accepted,Routine replenishment
+POL000031-1,PO000031,1,PRD010,300,300,0.57,accepted,Partial receipt allowed
+POL000031-2,PO000031,2,PRD017,300,277,4.97,accepted,Expedite requested by planner
+POL000031-3,PO000031,3,PRD009,150,150,1.33,accepted,Expedite requested by planner
+POL000032-1,PO000032,1,PRD010,600,600,0.83,conditional,Routine replenishment
+POL000032-2,PO000032,2,PRD007,1200,1200,0.99,accepted,Routine replenishment
+POL000033-1,PO000033,1,PRD018,175,175,3.23,accepted,Expedite requested by planner
+POL000034-1,PO000034,1,PRD016,700,700,4.41,accepted,Expedite requested by planner
+POL000035-1,PO000035,1,PRD010,50,50,0.82,accepted,Inspection certificate required
+POL000036-1,PO000036,1,PRD019,300,300,1.20,accepted,Routine replenishment
+POL000036-2,PO000036,2,PRD020,150,150,4.28,accepted,Inspection certificate required
+POL000036-3,PO000036,3,PRD012,50,48,1.18,accepted,Partial receipt allowed
+POL000037-1,PO000037,1,PRD006,150,134,1.21,conditional,Expedite requested by planner
+POL000037-2,PO000037,2,PRD012,200,169,0.94,accepted,Routine replenishment
+POL000038-1,PO000038,1,PRD017,1200,1200,5.07,accepted,Inspection certificate required
+POL000038-2,PO000038,2,PRD015,175,175,2.29,accepted,Expedite requested by planner
+POL000039-1,PO000039,1,PRD002,300,300,1.98,accepted,Routine replenishment
+POL000040-1,PO000040,1,PRD002,1000,949,1.84,accepted,Partial receipt allowed
+POL000040-2,PO000040,2,PRD011,800,800,2.79,accepted,Routine replenishment
+POL000041-1,PO000041,1,PRD016,800,800,3.97,accepted,Partial receipt allowed
+POL000042-1,PO000042,1,PRD002,600,534,1.84,accepted,Inspection certificate required
+POL000042-2,PO000042,2,PRD011,600,600,2.79,accepted,Inspection certificate required
+POL000043-1,PO000043,1,PRD020,400,400,4.21,accepted,Routine replenishment
+POL000043-2,PO000043,2,PRD005,75,65,1.63,rejected,Routine replenishment
+POL000044-1,PO000044,1,PRD003,25,25,0.57,accepted,Inspection certificate required
+POL000045-1,PO000045,1,PRD006,175,157,1.00,accepted,Expedite requested by planner
+POL000046-1,PO000046,1,PRD003,250,250,0.54,accepted,Routine replenishment
+POL000049-1,PO000049,1,PRD020,400,400,4.21,accepted,Routine replenishment
+POL000049-2,PO000049,2,PRD005,100,100,1.63,accepted,Expedite requested by planner
+POL000050-1,PO000050,1,PRD015,200,200,2.26,accepted,Partial receipt allowed
+POL000051-1,PO000051,1,PRD006,125,125,1.00,accepted,Partial receipt allowed
+POL000052-1,PO000052,1,PRD004,400,400,2.28,accepted,Partial receipt allowed
+POL000053-1,PO000053,1,PRD010,75,75,0.96,accepted,Inspection certificate required
+POL000054-1,PO000054,1,PRD012,600,600,1.17,accepted,Inspection certificate required
+POL000056-1,PO000056,1,PRD008,1400,1400,1.85,accepted,Partial receipt allowed
+POL000057-1,PO000057,1,PRD008,800,800,1.85,accepted,Inspection certificate required
+POL000058-1,PO000058,1,PRD017,1600,1600,5.07,accepted,Routine replenishment
+POL000058-2,PO000058,2,PRD015,175,175,2.29,accepted,Routine replenishment
+POL000059-1,PO000059,1,PRD010,150,129,0.82,accepted,Routine replenishment
+POL000061-1,PO000061,1,PRD010,150,123,0.82,accepted,Inspection certificate required
+POL000062-1,PO000062,1,PRD004,200,200,2.28,accepted,Partial receipt allowed
+POL000062-2,PO000062,2,PRD018,400,335,2.24,accepted,Partial receipt allowed
+POL000062-3,PO000062,3,PRD001,400,367,2.13,rejected,Inspection certificate required
+POL000063-1,PO000063,1,PRD006,100,100,1.00,accepted,Routine replenishment
+POL000064-1,PO000064,1,PRD010,175,165,0.82,accepted,Partial receipt allowed
+POL000065-1,PO000065,1,PRD020,400,400,3.03,accepted,Inspection certificate required
+POL000066-1,PO000066,1,PRD007,1000,1000,0.99,accepted,Partial receipt allowed
+POL000066-2,PO000066,2,PRD010,600,600,0.83,accepted,Expedite requested by planner
+POL000068-1,PO000068,1,PRD009,200,200,1.13,accepted,Inspection certificate required
+POL000068-2,PO000068,2,PRD011,1000,1000,1.77,accepted,Inspection certificate required
+POL000068-3,PO000068,3,PRD017,700,700,3.30,accepted,Expedite requested by planner
+POL000070-1,PO000070,1,PRD010,75,75,0.96,accepted,Inspection certificate required
+POL000070-2,PO000070,2,PRD013,500,500,1.37,rejected,Expedite requested by planner
+POL000072-1,PO000072,1,PRD018,100,100,3.23,rejected,Expedite requested by planner
+POL000074-1,PO000074,1,PRD005,200,200,1.63,accepted,Routine replenishment
+POL000074-2,PO000074,2,PRD020,1600,1600,4.21,accepted,Inspection certificate required
+POL000075-1,PO000075,1,PRD015,25,25,2.29,accepted,Expedite requested by planner
+POL000075-2,PO000075,2,PRD017,400,400,5.07,accepted,Routine replenishment
+POL000076-1,PO000076,1,PRD004,200,200,1.33,accepted,Routine replenishment
+POL000077-1,PO000077,1,PRD016,1000,1000,3.97,accepted,Partial receipt allowed
+POL000078-1,PO000078,1,PRD005,200,200,2.35,accepted,Partial receipt allowed
+POL000078-2,PO000078,2,PRD003,100,100,0.57,accepted,Inspection certificate required
+POL000078-3,PO000078,3,PRD007,350,350,1.25,accepted,Expedite requested by planner
+POL000080-1,PO000080,1,PRD015,1600,1600,3.50,accepted,Routine replenishment
+POL000081-1,PO000081,1,PRD015,125,125,2.26,accepted,Routine replenishment
+POL000082-1,PO000082,1,PRD015,1000,1000,3.50,accepted,Partial receipt allowed
+POL000083-1,PO000083,1,PRD014,250,250,2.69,accepted,Routine replenishment
+POL000083-2,PO000083,2,PRD016,800,800,3.97,accepted,Partial receipt allowed
+POL000085-1,PO000085,1,PRD009,50,50,0.98,accepted,Routine replenishment
+POL000086-1,PO000086,1,PRD001,300,300,2.13,accepted,Routine replenishment
+POL000087-1,PO000087,1,PRD017,250,250,4.97,accepted,Partial receipt allowed
+POL000087-2,PO000087,2,PRD009,175,175,1.33,accepted,Partial receipt allowed
+POL000091-1,PO000091,1,PRD015,175,175,2.26,accepted,Routine replenishment
+POL000092-1,PO000092,1,PRD017,500,500,3.30,conditional,Partial receipt allowed
+POL000092-2,PO000092,2,PRD011,1200,1025,1.77,accepted,Partial receipt allowed
+POL000093-1,PO000093,1,PRD014,300,300,2.69,rejected,Partial receipt allowed
+POL000094-1,PO000094,1,PRD013,300,300,1.37,accepted,Inspection certificate required
+POL000094-2,PO000094,2,PRD010,75,75,0.96,rejected,Expedite requested by planner
+POL000095-1,PO000095,1,PRD020,400,400,3.03,accepted,Routine replenishment
+POL000099-1,PO000099,1,PRD004,350,308,2.28,accepted,Expedite requested by planner
+POL000100-1,PO000100,1,PRD004,200,200,1.33,conditional,Expedite requested by planner
+POL000102-1,PO000102,1,PRD018,175,175,3.23,accepted,Expedite requested by planner
+POL000103-1,PO000103,1,PRD006,75,75,1.00,accepted,Expedite requested by planner
+POL000105-1,PO000105,1,PRD004,150,150,1.60,accepted,Inspection certificate required
+POL000107-1,PO000107,1,PRD006,75,75,1.00,accepted,Partial receipt allowed
+POL000111-1,PO000111,1,PRD017,50,50,4.97,accepted,Inspection certificate required
+POL000114-1,PO000114,1,PRD015,1600,1431,3.50,accepted,Expedite requested by planner
+POL000116-1,PO000116,1,PRD015,25,25,2.29,accepted,Partial receipt allowed
+POL000116-2,PO000116,2,PRD017,800,749,5.07,accepted,Inspection certificate required
+POL000117-1,PO000117,1,PRD001,250,250,2.43,accepted,Expedite requested by planner
+POL000119-1,PO000119,1,PRD012,800,800,1.17,accepted,Expedite requested by planner
+POL000119-2,PO000119,2,PRD006,1000,868,1.47,accepted,Expedite requested by planner
+POL000120-1,PO000120,1,PRD006,25,23,1.00,accepted,Routine replenishment
+POL000121-1,PO000121,1,PRD001,400,396,2.66,accepted,Expedite requested by planner
+POL000121-2,PO000121,2,PRD009,50,50,1.15,conditional,Routine replenishment
+POL000121-3,PO000121,3,PRD005,1600,1600,2.63,accepted,Routine replenishment
+POL000123-1,PO000123,1,PRD009,100,100,1.15,accepted,Routine replenishment
+POL000126-1,PO000126,1,PRD012,800,800,1.17,accepted,Expedite requested by planner
+POL000126-2,PO000126,2,PRD006,800,800,1.47,accepted,Inspection certificate required
+POL000128-1,PO000128,1,PRD004,700,700,1.33,accepted,Routine replenishment
+POL000129-1,PO000129,1,PRD013,100,90,1.20,accepted,Expedite requested by planner
+POL000129-2,PO000129,2,PRD008,150,136,1.31,accepted,Routine replenishment
+POL000130-1,PO000130,1,PRD018,75,75,3.23,accepted,Partial receipt allowed
+POL000131-1,PO000131,1,PRD014,200,200,2.69,conditional,Routine replenishment
+POL000131-2,PO000131,2,PRD016,800,800,3.97,accepted,Routine replenishment
+POL000133-1,PO000133,1,PRD013,175,175,1.20,accepted,Expedite requested by planner
+POL000134-1,PO000134,1,PRD009,150,150,1.15,accepted,Inspection certificate required
+POL000134-2,PO000134,2,PRD005,400,400,2.63,accepted,Inspection certificate required
+POL000135-1,PO000135,1,PRD013,175,175,1.20,accepted,Partial receipt allowed
+POL000135-2,PO000135,2,PRD008,175,175,1.31,accepted,Routine replenishment
+POL000136-1,PO000136,1,PRD020,400,351,4.28,accepted,Routine replenishment
+POL000136-2,PO000136,2,PRD012,25,25,1.18,accepted,Inspection certificate required
+POL000136-3,PO000136,3,PRD009,400,372,0.98,accepted,Expedite requested by planner
+POL000137-1,PO000137,1,PRD017,1000,1000,5.07,accepted,Routine replenishment
+POL000137-2,PO000137,2,PRD015,175,175,2.29,accepted,Routine replenishment
+POL000138-1,PO000138,1,PRD002,800,800,1.98,rejected,Partial receipt allowed
+POL000138-2,PO000138,2,PRD018,50,50,2.70,accepted,Partial receipt allowed
+POL000138-3,PO000138,3,PRD012,1400,1400,0.71,accepted,Expedite requested by planner
+POL000139-1,PO000139,1,PRD010,200,200,0.82,accepted,Partial receipt allowed
+POL000140-1,PO000140,1,PRD018,200,200,2.70,accepted,Routine replenishment
+POL000141-1,PO000141,1,PRD012,50,50,0.94,accepted,Inspection certificate required
+POL000142-1,PO000142,1,PRD005,125,125,1.63,accepted,Partial receipt allowed
+POL000142-2,PO000142,2,PRD020,200,200,4.21,accepted,Routine replenishment
+POL000144-1,PO000144,1,PRD010,150,150,0.57,accepted,Expedite requested by planner
+POL000146-1,PO000146,1,PRD020,600,600,4.21,accepted,Partial receipt allowed
+POL000146-2,PO000146,2,PRD005,25,25,1.63,rejected,Partial receipt allowed
+POL000147-1,PO000147,1,PRD004,125,125,1.64,accepted,Expedite requested by planner
+POL000147-2,PO000147,2,PRD011,100,100,2.72,accepted,Partial receipt allowed
+POL000148-1,PO000148,1,PRD006,1400,1400,1.47,accepted,Expedite requested by planner
+POL000149-1,PO000149,1,PRD019,300,300,1.20,accepted,Expedite requested by planner
+POL000149-2,PO000149,2,PRD012,200,177,1.18,accepted,Partial receipt allowed
+POL000149-3,PO000149,3,PRD009,50,50,0.98,accepted,Expedite requested by planner
+POL000150-1,PO000150,1,PRD020,1600,1600,4.21,conditional,Inspection certificate required
+POL000150-2,PO000150,2,PRD005,75,75,1.63,accepted,Routine replenishment
+POL000151-1,PO000151,1,PRD015,100,100,2.26,accepted,Expedite requested by planner
+POL000152-1,PO000152,1,PRD010,100,100,0.57,accepted,Inspection certificate required
+POL000152-2,PO000152,2,PRD017,100,100,4.97,accepted,Routine replenishment
+POL000152-3,PO000152,3,PRD009,25,25,1.33,accepted,Partial receipt allowed
+POL000155-1,PO000155,1,PRD010,25,25,0.96,accepted,Expedite requested by planner
+POL000155-2,PO000155,2,PRD013,300,300,1.37,accepted,Expedite requested by planner
+POL000156-1,PO000156,1,PRD005,200,200,2.63,accepted,Partial receipt allowed
+POL000157-1,PO000157,1,PRD019,500,500,2.05,conditional,Routine replenishment
+POL000157-2,PO000157,2,PRD006,150,150,1.21,accepted,Expedite requested by planner
+POL000159-1,PO000159,1,PRD006,125,125,1.00,accepted,Inspection certificate required
+POL000160-1,PO000160,1,PRD015,600,539,3.50,accepted,Inspection certificate required
+POL000161-1,PO000161,1,PRD018,25,23,3.23,accepted,Expedite requested by planner
+POL000162-1,PO000162,1,PRD009,75,75,1.33,accepted,Partial receipt allowed
+POL000162-2,PO000162,2,PRD010,250,250,0.57,accepted,Inspection certificate required
+POL000165-1,PO000165,1,PRD002,400,389,1.84,accepted,Partial receipt allowed
+POL000165-2,PO000165,2,PRD011,400,400,2.79,accepted,Routine replenishment
+POL000166-1,PO000166,1,PRD017,200,162,4.97,accepted,Expedite requested by planner
+POL000166-2,PO000166,2,PRD009,75,60,1.33,accepted,Partial receipt allowed
+POL000167-1,PO000167,1,PRD005,200,200,2.35,accepted,Expedite requested by planner
+POL000167-2,PO000167,2,PRD003,100,100,0.57,accepted,Routine replenishment
+POL000167-3,PO000167,3,PRD007,400,400,1.25,accepted,Partial receipt allowed
+POL000168-1,PO000168,1,PRD017,100,100,4.97,accepted,Inspection certificate required
+POL000168-2,PO000168,2,PRD009,50,50,1.33,accepted,Expedite requested by planner
+POL000169-1,PO000169,1,PRD016,300,299,4.41,accepted,Routine replenishment
+POL000170-1,PO000170,1,PRD006,175,175,1.00,accepted,Routine replenishment
+POL000171-1,PO000171,1,PRD004,100,100,1.60,accepted,Inspection certificate required
+POL000172-1,PO000172,1,PRD018,150,150,3.23,accepted,Routine replenishment
+POL000175-1,PO000175,1,PRD015,125,125,2.29,accepted,Partial receipt allowed
+POL000176-1,PO000176,1,PRD015,1200,1200,3.50,conditional,Inspection certificate required
+POL000178-1,PO000178,1,PRD011,1000,1000,2.79,accepted,Partial receipt allowed
+POL000178-2,PO000178,2,PRD002,1600,1585,1.84,accepted,Partial receipt allowed
+POL000179-1,PO000179,1,PRD002,200,200,1.98,conditional,Routine replenishment
+POL000181-1,PO000181,1,PRD012,600,600,0.71,rejected,Partial receipt allowed
+POL000181-2,PO000181,2,PRD013,500,500,1.03,accepted,Expedite requested by planner
+POL000181-3,PO000181,3,PRD002,100,100,1.98,accepted,Inspection certificate required
+POL000182-1,PO000182,1,PRD016,600,600,4.41,accepted,Inspection certificate required
+POL000184-1,PO000184,1,PRD010,200,200,0.96,rejected,Expedite requested by planner
+POL000184-2,PO000184,2,PRD013,200,183,1.37,rejected,Inspection certificate required
+POL000185-1,PO000185,1,PRD015,200,200,3.50,accepted,Routine replenishment
+POL000187-1,PO000187,1,PRD011,200,182,2.79,accepted,Routine replenishment
+POL000187-2,PO000187,2,PRD002,800,800,1.84,accepted,Expedite requested by planner
+POL000188-1,PO000188,1,PRD014,400,400,2.69,accepted,Expedite requested by planner
+POL000188-2,PO000188,2,PRD016,1400,1383,3.97,accepted,Partial receipt allowed
+POL000189-1,PO000189,1,PRD017,200,200,5.07,accepted,Routine replenishment
+POL000189-2,PO000189,2,PRD015,75,75,2.29,accepted,Expedite requested by planner
+POL000190-1,PO000190,1,PRD004,200,185,1.33,accepted,Expedite requested by planner
+POL000194-1,PO000194,1,PRD009,800,800,1.13,accepted,Routine replenishment
+POL000194-2,PO000194,2,PRD017,400,359,3.30,rejected,Expedite requested by planner
+POL000194-3,PO000194,3,PRD011,1400,1400,1.77,accepted,Expedite requested by planner
+POL000195-1,PO000195,1,PRD011,1200,1122,2.79,accepted,Routine replenishment
+POL000196-1,PO000196,1,PRD005,200,200,2.35,accepted,Inspection certificate required
+POL000196-2,PO000196,2,PRD007,250,238,1.25,accepted,Partial receipt allowed
+POL000197-1,PO000197,1,PRD001,300,300,2.66,accepted,Expedite requested by planner
+POL000197-2,PO000197,2,PRD009,125,125,1.15,accepted,Partial receipt allowed
+POL000197-3,PO000197,3,PRD005,400,400,2.63,accepted,Inspection certificate required
+POL000198-1,PO000198,1,PRD012,125,125,1.18,accepted,Inspection certificate required
+POL000198-2,PO000198,2,PRD019,300,271,1.20,accepted,Expedite requested by planner
+POL000198-3,PO000198,3,PRD009,150,150,0.98,accepted,Expedite requested by planner
+POL000199-1,PO000199,1,PRD020,500,500,3.03,accepted,Inspection certificate required
+POL000200-1,PO000200,1,PRD003,300,300,0.54,accepted,Expedite requested by planner
+POL000201-1,PO000201,1,PRD020,200,200,4.28,accepted,Inspection certificate required
+POL000201-2,PO000201,2,PRD019,400,400,1.20,accepted,Inspection certificate required
+POL000201-3,PO000201,3,PRD009,50,50,0.98,accepted,Expedite requested by planner
+POL000202-1,PO000202,1,PRD018,100,92,2.70,accepted,Expedite requested by planner
+POL000205-1,PO000205,1,PRD012,1000,978,0.71,accepted,Expedite requested by planner
+POL000205-2,PO000205,2,PRD013,600,600,1.03,accepted,Routine replenishment
+POL000205-3,PO000205,3,PRD018,300,300,2.70,accepted,Expedite requested by planner
+POL000206-1,PO000206,1,PRD004,175,159,1.60,accepted,Expedite requested by planner
+POL000207-1,PO000207,1,PRD011,1600,1600,2.79,accepted,Partial receipt allowed
+POL000207-2,PO000207,2,PRD002,400,400,1.84,accepted,Expedite requested by planner
+POL000210-1,PO000210,1,PRD005,1200,1200,2.63,accepted,Partial receipt allowed
+POL000210-2,PO000210,2,PRD009,25,25,1.15,accepted,Routine replenishment
+POL000211-1,PO000211,1,PRD010,500,500,0.83,accepted,Inspection certificate required
+POL000212-1,PO000212,1,PRD010,400,400,0.83,accepted,Routine replenishment
+POL000212-2,PO000212,2,PRD016,150,150,4.22,accepted,Partial receipt allowed
+POL000212-3,PO000212,3,PRD007,200,200,0.99,accepted,Expedite requested by planner
+POL000213-1,PO000213,1,PRD015,1600,1600,3.50,accepted,Expedite requested by planner
+POL000214-1,PO000214,1,PRD001,250,237,2.43,accepted,Inspection certificate required
+POL000214-2,PO000214,2,PRD002,75,75,1.54,accepted,Routine replenishment
+POL000214-3,PO000214,3,PRD014,200,200,3.44,accepted,Inspection certificate required
+POL000215-1,PO000215,1,PRD017,400,400,3.30,accepted,Partial receipt allowed
+POL000215-2,PO000215,2,PRD011,200,200,1.77,rejected,Partial receipt allowed
+POL000216-1,PO000216,1,PRD017,1200,1200,5.07,accepted,Partial receipt allowed
+POL000216-2,PO000216,2,PRD015,50,45,2.29,accepted,Partial receipt allowed
+POL000217-1,PO000217,1,PRD004,125,125,1.60,rejected,Expedite requested by planner
+POL000218-1,PO000218,1,PRD020,500,500,3.03,conditional,Inspection certificate required
+POL000219-1,PO000219,1,PRD018,175,169,3.23,accepted,Expedite requested by planner
+POL000220-1,PO000220,1,PRD017,500,500,3.30,accepted,Expedite requested by planner
+POL000220-2,PO000220,2,PRD009,1600,1600,1.13,accepted,Routine replenishment
+POL000220-3,PO000220,3,PRD011,200,169,1.77,accepted,Routine replenishment
+POL000221-1,PO000221,1,PRD003,200,200,0.54,accepted,Expedite requested by planner
+POL000223-1,PO000223,1,PRD014,350,350,2.69,accepted,Partial receipt allowed
+POL000223-2,PO000223,2,PRD016,1200,1200,3.97,accepted,Partial receipt allowed
+POL000224-1,PO000224,1,PRD003,25,25,0.57,accepted,Routine replenishment
+POL000224-2,PO000224,2,PRD007,300,300,1.25,accepted,Inspection certificate required
+POL000224-3,PO000224,3,PRD005,200,200,2.35,accepted,Partial receipt allowed
+POL000225-1,PO000225,1,PRD003,25,25,0.57,accepted,Expedite requested by planner
+POL000226-1,PO000226,1,PRD002,1600,1600,1.84,accepted,Partial receipt allowed
+POL000230-1,PO000230,1,PRD002,1200,1048,1.84,accepted,Expedite requested by planner
+POL000230-2,PO000230,2,PRD011,800,800,2.79,rejected,Partial receipt allowed
+POL000231-1,PO000231,1,PRD014,50,45,2.69,accepted,Partial receipt allowed
+POL000231-2,PO000231,2,PRD016,1400,1400,3.97,accepted,Routine replenishment
+POL000232-1,PO000232,1,PRD015,150,150,2.29,accepted,Inspection certificate required
+POL000234-1,PO000234,1,PRD008,1600,1600,1.85,accepted,Expedite requested by planner
+POL000235-1,PO000235,1,PRD004,25,25,1.60,accepted,Expedite requested by planner
+POL000236-1,PO000236,1,PRD015,75,68,2.29,conditional,Inspection certificate required
+POL000236-2,PO000236,2,PRD017,600,559,5.07,accepted,Inspection certificate required
+POL000237-1,PO000237,1,PRD020,200,200,4.21,accepted,Expedite requested by planner
+POL000238-1,PO000238,1,PRD014,200,200,3.44,rejected,Partial receipt allowed
+POL000238-2,PO000238,2,PRD002,75,75,1.54,accepted,Expedite requested by planner
+POL000239-1,PO000239,1,PRD003,100,100,0.54,accepted,Partial receipt allowed
+POL000240-1,PO000240,1,PRD004,500,500,1.33,accepted,Partial receipt allowed
+POL000241-1,PO000241,1,PRD005,800,800,2.35,accepted,Routine replenishment
+POL000241-2,PO000241,2,PRD007,100,99,1.25,accepted,Inspection certificate required
+POL000242-1,PO000242,1,PRD019,100,100,2.05,rejected,Inspection certificate required
+POL000243-1,PO000243,1,PRD018,500,500,2.24,accepted,Routine replenishment
+POL000243-2,PO000243,2,PRD001,350,350,2.13,accepted,Expedite requested by planner
+POL000244-1,PO000244,1,PRD009,25,23,1.15,accepted,Inspection certificate required
+POL000246-1,PO000246,1,PRD006,1600,1600,1.47,accepted,Expedite requested by planner
+POL000246-2,PO000246,2,PRD012,300,300,1.17,accepted,Partial receipt allowed
+POL000247-1,PO000247,1,PRD006,150,150,1.21,accepted,Inspection certificate required
+POL000247-2,PO000247,2,PRD012,350,350,0.94,accepted,Inspection certificate required
+POL000247-3,PO000247,3,PRD019,400,400,2.05,accepted,Expedite requested by planner
+POL000248-1,PO000248,1,PRD020,200,162,4.21,accepted,Expedite requested by planner
+POL000252-1,PO000252,1,PRD004,125,125,1.64,accepted,Inspection certificate required
+POL000252-2,PO000252,2,PRD011,600,600,2.72,conditional,Inspection certificate required
+POL000253-1,PO000253,1,PRD011,800,800,1.77,accepted,Routine replenishment
+POL000253-2,PO000253,2,PRD017,300,300,3.30,accepted,Partial receipt allowed
+POL000253-3,PO000253,3,PRD009,1600,1600,1.13,accepted,Routine replenishment
+POL000254-1,PO000254,1,PRD002,500,500,1.98,accepted,Inspection certificate required
+POL000256-1,PO000256,1,PRD009,200,200,1.33,accepted,Inspection certificate required
+POL000256-2,PO000256,2,PRD017,350,350,4.97,accepted,Partial receipt allowed
+POL000256-3,PO000256,3,PRD010,400,367,0.57,rejected,Expedite requested by planner
+POL000257-1,PO000257,1,PRD018,350,338,2.70,rejected,Routine replenishment
+POL000258-1,PO000258,1,PRD001,500,500,2.66,accepted,Routine replenishment
+POL000258-2,PO000258,2,PRD009,100,100,1.15,accepted,Routine replenishment
+POL000260-1,PO000260,1,PRD017,400,400,5.07,conditional,Inspection certificate required
+POL000260-2,PO000260,2,PRD015,100,82,2.29,accepted,Inspection certificate required
+POL000261-1,PO000261,1,PRD010,200,200,0.96,accepted,Partial receipt allowed
+POL000262-1,PO000262,1,PRD002,200,200,1.84,rejected,Routine replenishment
+POL000263-1,PO000263,1,PRD018,100,100,3.23,accepted,Expedite requested by planner
+POL000264-1,PO000264,1,PRD009,800,800,1.13,conditional,Routine replenishment
+POL000264-2,PO000264,2,PRD011,200,200,1.77,accepted,Routine replenishment
+POL000264-3,PO000264,3,PRD017,800,800,3.30,accepted,Expedite requested by planner
+POL000265-1,PO000265,1,PRD004,700,700,1.33,accepted,Partial receipt allowed
+POL000266-1,PO000266,1,PRD004,400,400,1.33,conditional,Inspection certificate required
+POL000267-1,PO000267,1,PRD005,400,400,2.63,accepted,Inspection certificate required
+POL000267-2,PO000267,2,PRD009,175,153,1.15,accepted,Routine replenishment
+POL000268-1,PO000268,1,PRD016,800,800,3.97,accepted,Routine replenishment
+POL000269-1,PO000269,1,PRD002,50,46,1.54,conditional,Routine replenishment
+POL000269-2,PO000269,2,PRD014,100,100,3.44,conditional,Expedite requested by planner
+POL000269-3,PO000269,3,PRD015,150,135,2.26,accepted,Partial receipt allowed
+POL000270-1,PO000270,1,PRD014,250,250,2.69,conditional,Routine replenishment
+POL000270-2,PO000270,2,PRD016,1600,1600,3.97,accepted,Partial receipt allowed
+POL000272-1,PO000272,1,PRD004,175,175,1.64,accepted,Inspection certificate required
+POL000272-2,PO000272,2,PRD011,800,800,2.72,accepted,Routine replenishment
+POL000275-1,PO000275,1,PRD006,75,75,1.00,accepted,Inspection certificate required
+POL000276-1,PO000276,1,PRD004,300,300,2.28,accepted,Routine replenishment
+POL000276-2,PO000276,2,PRD001,100,100,2.13,accepted,Partial receipt allowed
+POL000276-3,PO000276,3,PRD018,600,600,2.24,accepted,Inspection certificate required
+POL000278-1,PO000278,1,PRD020,1400,1155,4.21,accepted,Expedite requested by planner
+POL000279-1,PO000279,1,PRD019,400,400,2.05,accepted,Partial receipt allowed
+POL000279-2,PO000279,2,PRD006,125,125,1.21,accepted,Inspection certificate required
+POL000280-1,PO000280,1,PRD011,300,256,2.72,accepted,Partial receipt allowed
+POL000280-2,PO000280,2,PRD004,100,100,1.64,accepted,Routine replenishment
+POL000282-1,PO000282,1,PRD013,150,150,1.20,accepted,Inspection certificate required
+POL000282-2,PO000282,2,PRD008,200,200,1.31,accepted,Partial receipt allowed
+POL000284-1,PO000284,1,PRD003,50,50,0.54,conditional,Expedite requested by planner
+POL000285-1,PO000285,1,PRD010,150,150,0.82,accepted,Expedite requested by planner
+POL000286-1,PO000286,1,PRD007,200,167,1.25,accepted,Inspection certificate required
+POL000286-2,PO000286,2,PRD005,1000,1000,2.35,accepted,Inspection certificate required
+POL000286-3,PO000286,3,PRD003,125,125,0.57,accepted,Expedite requested by planner
+POL000287-1,PO000287,1,PRD006,75,75,1.00,accepted,Routine replenishment
+POL000288-1,PO000288,1,PRD003,250,250,0.54,accepted,Partial receipt allowed
+POL000289-1,PO000289,1,PRD018,200,186,2.24,accepted,Partial receipt allowed
+POL000289-2,PO000289,2,PRD001,400,400,2.13,accepted,Routine replenishment
+POL000291-1,PO000291,1,PRD004,150,150,1.60,accepted,Partial receipt allowed
+POL000292-1,PO000292,1,PRD012,300,300,1.17,accepted,Routine replenishment
+POL000292-2,PO000292,2,PRD006,1600,1600,1.47,accepted,Inspection certificate required
+POL000293-1,PO000293,1,PRD018,150,142,3.23,accepted,Inspection certificate required
+POL000295-1,PO000295,1,PRD018,250,250,2.70,accepted,Expedite requested by planner
+POL000295-2,PO000295,2,PRD013,300,300,1.03,conditional,Routine replenishment
+POL000296-1,PO000296,1,PRD008,1400,1400,1.85,conditional,Expedite requested by planner
+POL000297-1,PO000297,1,PRD010,175,175,0.96,accepted,Inspection certificate required
+POL000297-2,PO000297,2,PRD013,600,600,1.37,accepted,Inspection certificate required
+POL000298-1,PO000298,1,PRD010,75,75,0.82,accepted,Inspection certificate required
+POL000299-1,PO000299,1,PRD011,200,200,2.79,accepted,Expedite requested by planner
+POL000299-2,PO000299,2,PRD002,400,400,1.84,accepted,Inspection certificate required
+POL000300-1,PO000300,1,PRD004,200,200,1.60,accepted,Expedite requested by planner
+POL000301-1,PO000301,1,PRD009,150,139,0.98,accepted,Partial receipt allowed
+POL000301-2,PO000301,2,PRD020,300,300,4.28,accepted,Partial receipt allowed
+POL000301-3,PO000301,3,PRD019,300,300,1.20,accepted,Partial receipt allowed
+POL000302-1,PO000302,1,PRD009,200,200,1.33,rejected,Inspection certificate required
+POL000303-1,PO000303,1,PRD015,75,75,2.29,accepted,Partial receipt allowed
+POL000303-2,PO000303,2,PRD017,1600,1600,5.07,accepted,Partial receipt allowed
+POL000304-1,PO000304,1,PRD017,600,512,3.30,accepted,Partial receipt allowed
+POL000304-2,PO000304,2,PRD009,1600,1600,1.13,accepted,Routine replenishment
+POL000304-3,PO000304,3,PRD011,1600,1600,1.77,accepted,Partial receipt allowed
+POL000305-1,PO000305,1,PRD002,1600,1600,1.84,accepted,Expedite requested by planner
+POL000307-1,PO000307,1,PRD004,75,71,1.60,rejected,Inspection certificate required
+POL000308-1,PO000308,1,PRD017,400,400,5.07,accepted,Inspection certificate required
+POL000308-2,PO000308,2,PRD015,25,25,2.29,accepted,Routine replenishment
+POL000309-1,PO000309,1,PRD010,100,100,0.57,accepted,Expedite requested by planner
+POL000309-2,PO000309,2,PRD009,25,25,1.33,accepted,Expedite requested by planner
+POL000309-3,PO000309,3,PRD017,100,93,4.97,accepted,Routine replenishment
+POL000311-1,PO000311,1,PRD008,600,600,1.85,accepted,Expedite requested by planner
+POL000312-1,PO000312,1,PRD009,175,174,1.15,accepted,Routine replenishment
+POL000312-2,PO000312,2,PRD005,1200,1039,2.63,accepted,Routine replenishment
+POL000312-3,PO000312,3,PRD001,800,775,2.66,accepted,Expedite requested by planner
+POL000313-1,PO000313,1,PRD012,700,700,1.17,accepted,Partial receipt allowed
+POL000315-1,PO000315,1,PRD008,125,125,1.31,accepted,Routine replenishment
+POL000315-2,PO000315,2,PRD013,125,125,1.20,accepted,Expedite requested by planner
+POL000318-1,PO000318,1,PRD004,150,150,1.60,accepted,Expedite requested by planner
+POL000321-1,PO000321,1,PRD002,800,800,1.84,accepted,Routine replenishment
+POL000322-1,PO000322,1,PRD003,400,400,0.54,accepted,Expedite requested by planner
+POL000324-1,PO000324,1,PRD010,150,150,0.96,accepted,Inspection certificate required
+POL000324-2,PO000324,2,PRD013,700,700,1.37,accepted,Inspection certificate required
+POL000325-1,PO000325,1,PRD006,200,200,1.21,accepted,Expedite requested by planner
+POL000326-1,PO000326,1,PRD011,100,100,2.72,accepted,Inspection certificate required
+POL000326-2,PO000326,2,PRD004,175,175,1.64,accepted,Routine replenishment
+POL000327-1,PO000327,1,PRD020,1000,1000,4.21,accepted,Partial receipt allowed
+POL000327-2,PO000327,2,PRD005,200,200,1.63,accepted,Expedite requested by planner
+POL000328-1,PO000328,1,PRD008,800,800,1.85,accepted,Expedite requested by planner
+POL000329-1,PO000329,1,PRD017,300,300,3.30,accepted,Expedite requested by planner
+POL000329-2,PO000329,2,PRD009,1600,1327,1.13,accepted,Expedite requested by planner
+POL000331-1,PO000331,1,PRD013,150,150,1.69,accepted,Inspection certificate required
+POL000331-2,PO000331,2,PRD017,1200,1200,4.86,accepted,Partial receipt allowed
+POL000332-1,PO000332,1,PRD013,700,700,1.03,accepted,Routine replenishment
+POL000332-2,PO000332,2,PRD018,100,100,2.70,accepted,Partial receipt allowed
+POL000334-1,PO000334,1,PRD010,100,92,0.82,accepted,Partial receipt allowed
+POL000335-1,PO000335,1,PRD013,400,400,1.69,accepted,Expedite requested by planner
+POL000335-2,PO000335,2,PRD017,200,171,4.86,accepted,Inspection certificate required
+POL000337-1,PO000337,1,PRD010,200,171,0.83,accepted,Inspection certificate required
+POL000337-2,PO000337,2,PRD007,1200,1200,0.99,accepted,Routine replenishment
+POL000339-1,PO000339,1,PRD009,175,160,1.15,accepted,Inspection certificate required
+POL000341-1,PO000341,1,PRD001,300,300,2.66,accepted,Routine replenishment
+POL000341-2,PO000341,2,PRD009,100,81,1.15,accepted,Partial receipt allowed
+POL000342-1,PO000342,1,PRD004,200,200,1.64,conditional,Partial receipt allowed
+POL000342-2,PO000342,2,PRD011,500,500,2.72,accepted,Partial receipt allowed
+POL000344-1,PO000344,1,PRD015,400,400,3.50,accepted,Inspection certificate required
+POL000347-1,PO000347,1,PRD015,200,200,2.26,accepted,Expedite requested by planner
+POL000348-1,PO000348,1,PRD003,100,100,0.54,accepted,Partial receipt allowed
+POL000349-1,PO000349,1,PRD016,700,700,4.41,accepted,Expedite requested by planner
+POL000350-1,PO000350,1,PRD012,800,800,1.17,accepted,Partial receipt allowed
+POL000351-1,PO000351,1,PRD017,200,160,5.07,accepted,Routine replenishment
+POL000351-2,PO000351,2,PRD015,125,125,2.29,accepted,Routine replenishment
+POL000354-1,PO000354,1,PRD004,100,100,1.64,accepted,Partial receipt allowed
+POL000357-1,PO000357,1,PRD012,1600,1600,0.71,accepted,Routine replenishment
+POL000357-2,PO000357,2,PRD013,100,100,1.03,accepted,Inspection certificate required
+POL000358-1,PO000358,1,PRD017,100,100,4.97,accepted,Inspection certificate required
+POL000360-1,PO000360,1,PRD018,250,246,2.70,accepted,Inspection certificate required
+POL000360-2,PO000360,2,PRD013,100,100,1.03,accepted,Inspection certificate required
+POL000361-1,PO000361,1,PRD011,400,400,2.72,accepted,Partial receipt allowed
+POL000361-2,PO000361,2,PRD004,125,125,1.64,accepted,Inspection certificate required
+POL000362-1,PO000362,1,PRD001,100,100,2.13,rejected,Routine replenishment
+POL000362-2,PO000362,2,PRD004,150,150,2.28,accepted,Expedite requested by planner
+POL000362-3,PO000362,3,PRD018,800,800,2.24,accepted,Partial receipt allowed
+POL000363-1,PO000363,1,PRD018,100,100,3.23,accepted,Partial receipt allowed
+POL000365-1,PO000365,1,PRD004,100,99,1.64,accepted,Expedite requested by planner
+POL000365-2,PO000365,2,PRD011,800,800,2.72,accepted,Partial receipt allowed
+POL000366-1,PO000366,1,PRD020,100,100,3.03,conditional,Inspection certificate required
+POL000367-1,PO000367,1,PRD004,100,97,1.64,accepted,Expedite requested by planner
+POL000368-1,PO000368,1,PRD015,75,75,2.26,accepted,Expedite requested by planner
+POL000369-1,PO000369,1,PRD018,200,200,2.70,accepted,Routine replenishment
+POL000370-1,PO000370,1,PRD012,800,800,0.71,accepted,Routine replenishment
+POL000370-2,PO000370,2,PRD018,350,350,2.70,accepted,Routine replenishment
+POL000370-3,PO000370,3,PRD002,400,399,1.98,accepted,Routine replenishment
+POL000371-1,PO000371,1,PRD015,75,75,2.26,accepted,Partial receipt allowed
+POL000372-1,PO000372,1,PRD020,600,513,3.03,accepted,Partial receipt allowed
+POL000373-1,PO000373,1,PRD009,1400,1400,1.13,accepted,Routine replenishment
+POL000374-1,PO000374,1,PRD008,400,400,1.85,accepted,Expedite requested by planner
+POL000376-1,PO000376,1,PRD003,350,305,0.54,accepted,Routine replenishment
+POL000377-1,PO000377,1,PRD007,400,400,1.25,accepted,Routine replenishment
+POL000377-2,PO000377,2,PRD005,1600,1600,2.35,accepted,Partial receipt allowed
+POL000377-3,PO000377,3,PRD003,25,25,0.57,accepted,Routine replenishment
+POL000379-1,PO000379,1,PRD010,25,25,0.82,accepted,Partial receipt allowed
+POL000380-1,PO000380,1,PRD012,300,300,0.94,accepted,Partial receipt allowed
+POL000380-2,PO000380,2,PRD006,125,125,1.21,accepted,Routine replenishment
+POL000380-3,PO000380,3,PRD019,700,700,2.05,accepted,Routine replenishment
+POL000381-1,PO000381,1,PRD016,600,600,4.41,accepted,Expedite requested by planner
+POL000382-1,PO000382,1,PRD005,1000,1000,2.35,accepted,Routine replenishment
+POL000382-2,PO000382,2,PRD007,250,250,1.25,accepted,Partial receipt allowed
+POL000382-3,PO000382,3,PRD003,75,68,0.57,accepted,Partial receipt allowed
+POL000383-1,PO000383,1,PRD019,300,300,2.05,accepted,Inspection certificate required
+POL000384-1,PO000384,1,PRD016,800,794,3.97,accepted,Partial receipt allowed
+POL000385-1,PO000385,1,PRD012,50,50,1.18,rejected,Partial receipt allowed
+POL000385-2,PO000385,2,PRD019,50,50,1.20,accepted,Routine replenishment
+POL000386-1,PO000386,1,PRD003,350,350,0.54,accepted,Inspection certificate required
+POL000387-1,PO000387,1,PRD016,400,400,3.97,rejected,Expedite requested by planner
+POL000390-1,PO000390,1,PRD008,100,100,1.31,accepted,Routine replenishment
+POL000390-2,PO000390,2,PRD013,100,100,1.20,accepted,Routine replenishment
+POL000392-1,PO000392,1,PRD010,50,47,0.82,accepted,Expedite requested by planner
+POL000396-1,PO000396,1,PRD009,200,160,1.33,accepted,Partial receipt allowed
+POL000397-1,PO000397,1,PRD017,1200,1200,4.86,accepted,Partial receipt allowed
+POL000397-2,PO000397,2,PRD013,50,42,1.69,accepted,Inspection certificate required
+POL000398-1,PO000398,1,PRD006,75,75,1.21,accepted,Expedite requested by planner
+POL000398-2,PO000398,2,PRD019,100,98,2.05,accepted,Routine replenishment
+POL000398-3,PO000398,3,PRD012,400,399,0.94,accepted,Inspection certificate required
+POL000399-1,PO000399,1,PRD015,50,50,2.26,accepted,Partial receipt allowed
+POL000400-1,PO000400,1,PRD019,400,400,1.20,accepted,Inspection certificate required
+POL000400-2,PO000400,2,PRD012,25,25,1.18,accepted,Expedite requested by planner
+POL000400-3,PO000400,3,PRD020,300,300,4.28,accepted,Inspection certificate required
+POL000403-1,PO000403,1,PRD012,150,124,0.94,accepted,Expedite requested by planner
+POL000404-1,PO000404,1,PRD015,200,200,2.26,accepted,Expedite requested by planner
+POL000407-1,PO000407,1,PRD015,150,150,2.29,conditional,Expedite requested by planner
+POL000407-2,PO000407,2,PRD017,1400,1400,5.07,accepted,Routine replenishment
+POL000409-1,PO000409,1,PRD003,350,350,0.54,conditional,Routine replenishment
+POL000411-1,PO000411,1,PRD012,100,100,1.17,accepted,Inspection certificate required
+POL000412-1,PO000412,1,PRD008,50,50,1.31,accepted,Inspection certificate required
+POL000413-1,PO000413,1,PRD004,50,47,1.64,accepted,Partial receipt allowed
+POL000414-1,PO000414,1,PRD004,150,150,1.64,accepted,Inspection certificate required
+POL000414-2,PO000414,2,PRD011,300,300,2.72,accepted,Partial receipt allowed
+POL000415-1,PO000415,1,PRD011,200,200,2.79,accepted,Partial receipt allowed
+POL000415-2,PO000415,2,PRD002,800,800,1.84,accepted,Partial receipt allowed
+POL000416-1,PO000416,1,PRD004,25,22,1.60,accepted,Routine replenishment
+POL000417-1,PO000417,1,PRD018,150,150,3.23,accepted,Partial receipt allowed
+POL000418-1,PO000418,1,PRD009,1400,1323,1.13,accepted,Inspection certificate required
+POL000418-2,PO000418,2,PRD011,200,185,1.77,accepted,Routine replenishment
+POL000418-3,PO000418,3,PRD017,500,500,3.30,accepted,Expedite requested by planner
+POL000420-1,PO000420,1,PRD010,175,175,0.82,accepted,Partial receipt allowed
+POL000421-1,PO000421,1,PRD003,150,150,0.54,accepted,Expedite requested by planner
+POL000422-1,PO000422,1,PRD015,1600,1600,3.50,accepted,Partial receipt allowed
+POL000423-1,PO000423,1,PRD001,300,300,2.66,accepted,Partial receipt allowed
+POL000424-1,PO000424,1,PRD013,100,100,1.69,accepted,Partial receipt allowed
+POL000425-1,PO000425,1,PRD006,1600,1600,1.47,accepted,Expedite requested by planner
+POL000426-1,PO000426,1,PRD017,1000,1000,5.07,accepted,Inspection certificate required
+POL000429-1,PO000429,1,PRD009,150,121,1.15,accepted,Inspection certificate required
+POL000429-2,PO000429,2,PRD005,1600,1600,2.63,accepted,Expedite requested by planner
+POL000429-3,PO000429,3,PRD001,800,800,2.66,accepted,Routine replenishment
+POL000430-1,PO000430,1,PRD010,200,173,0.83,accepted,Inspection certificate required
+POL000431-1,PO000431,1,PRD010,200,200,0.96,accepted,Routine replenishment
+POL000431-2,PO000431,2,PRD013,700,700,1.37,conditional,Expedite requested by planner
+POL000432-1,PO000432,1,PRD006,100,100,1.00,rejected,Routine replenishment
+POL000433-1,PO000433,1,PRD008,25,20,1.31,accepted,Routine replenishment
+POL000433-2,PO000433,2,PRD013,125,125,1.20,accepted,Routine replenishment
+POL000435-1,PO000435,1,PRD004,300,300,1.33,accepted,Routine replenishment
+POL000436-1,PO000436,1,PRD010,400,373,0.83,accepted,Routine replenishment
+POL000437-1,PO000437,1,PRD014,150,150,2.69,accepted,Expedite requested by planner
+POL000438-1,PO000438,1,PRD018,100,100,2.24,accepted,Routine replenishment
+POL000438-2,PO000438,2,PRD001,350,350,2.13,accepted,Partial receipt allowed
+POL000441-1,PO000441,1,PRD005,800,798,2.35,accepted,Partial receipt allowed
+POL000442-1,PO000442,1,PRD005,200,200,1.63,accepted,Routine replenishment
+POL000442-2,PO000442,2,PRD020,600,600,4.21,accepted,Expedite requested by planner
+POL000444-1,PO000444,1,PRD004,125,125,1.60,accepted,Inspection certificate required
+POL000446-1,PO000446,1,PRD008,125,111,1.31,accepted,Inspection certificate required
+POL000446-2,PO000446,2,PRD013,100,100,1.20,accepted,Expedite requested by planner
+POL000449-1,PO000449,1,PRD019,500,500,2.05,accepted,Inspection certificate required
+POL000452-1,PO000452,1,PRD008,150,150,1.31,accepted,Partial receipt allowed
+POL000452-2,PO000452,2,PRD013,175,173,1.20,accepted,Routine replenishment
+POL000453-1,PO000453,1,PRD015,1400,1210,3.50,accepted,Routine replenishment
+POL000457-1,PO000457,1,PRD013,400,322,1.69,accepted,Routine replenishment
+POL000457-2,PO000457,2,PRD017,1000,917,4.86,accepted,Partial receipt allowed
+POL000458-1,PO000458,1,PRD012,150,150,1.18,accepted,Inspection certificate required
+POL000458-2,PO000458,2,PRD020,350,350,4.28,accepted,Inspection certificate required
+POL000460-1,PO000460,1,PRD011,200,200,1.77,accepted,Routine replenishment
+POL000460-2,PO000460,2,PRD017,600,600,3.30,accepted,Partial receipt allowed
+POL000461-1,PO000461,1,PRD015,175,175,2.26,rejected,Routine replenishment
+POL000462-1,PO000462,1,PRD013,100,100,1.03,accepted,Partial receipt allowed
+POL000462-2,PO000462,2,PRD002,400,333,1.98,accepted,Expedite requested by planner
+POL000462-3,PO000462,3,PRD018,50,50,2.70,rejected,Routine replenishment
+POL000463-1,PO000463,1,PRD018,100,100,2.70,accepted,Expedite requested by planner
+POL000464-1,PO000464,1,PRD010,25,25,0.82,accepted,Inspection certificate required
+POL000465-1,PO000465,1,PRD019,400,400,2.05,accepted,Expedite requested by planner
+POL000465-2,PO000465,2,PRD006,200,179,1.21,accepted,Inspection certificate required
+POL000466-1,PO000466,1,PRD005,800,800,2.35,accepted,Routine replenishment
+POL000466-2,PO000466,2,PRD007,250,250,1.25,accepted,Partial receipt allowed
+POL000466-3,PO000466,3,PRD003,100,96,0.57,accepted,Inspection certificate required
+POL000467-1,PO000467,1,PRD020,150,150,4.28,accepted,Inspection certificate required
+POL000468-1,PO000468,1,PRD011,400,400,2.72,accepted,Inspection certificate required
+POL000468-2,PO000468,2,PRD004,125,125,1.64,accepted,Inspection certificate required
+POL000469-1,PO000469,1,PRD003,350,328,0.54,accepted,Partial receipt allowed
+POL000470-1,PO000470,1,PRD020,250,250,4.28,accepted,Partial receipt allowed
+POL000470-2,PO000470,2,PRD009,50,41,0.98,accepted,Routine replenishment
+POL000471-1,PO000471,1,PRD008,1600,1368,1.85,accepted,Inspection certificate required
+POL000473-1,PO000473,1,PRD017,100,80,4.97,accepted,Partial receipt allowed
+POL000473-2,PO000473,2,PRD009,200,200,1.33,accepted,Routine replenishment
+POL000474-1,PO000474,1,PRD004,500,500,1.33,accepted,Expedite requested by planner
+POL000475-1,PO000475,1,PRD002,200,200,1.54,accepted,Partial receipt allowed
+POL000476-1,PO000476,1,PRD006,1000,1000,1.47,conditional,Inspection certificate required
+POL000476-2,PO000476,2,PRD012,500,500,1.17,accepted,Partial receipt allowed
+POL000477-1,PO000477,1,PRD005,175,175,1.63,accepted,Routine replenishment
+POL000477-2,PO000477,2,PRD020,200,168,4.21,accepted,Partial receipt allowed
+POL000479-1,PO000479,1,PRD004,350,334,2.28,accepted,Routine replenishment
+POL000479-2,PO000479,2,PRD001,350,350,2.13,accepted,Inspection certificate required
+POL000480-1,PO000480,1,PRD004,25,25,1.60,accepted,Routine replenishment
+POL000481-1,PO000481,1,PRD020,600,600,4.21,accepted,Partial receipt allowed
+POL000481-2,PO000481,2,PRD005,100,93,1.63,accepted,Expedite requested by planner
+POL000482-1,PO000482,1,PRD001,100,84,2.66,accepted,Expedite requested by planner
+POL000482-2,PO000482,2,PRD009,175,175,1.15,accepted,Inspection certificate required
+POL000482-3,PO000482,3,PRD005,1000,1000,2.63,accepted,Partial receipt allowed
+POL000484-1,PO000484,1,PRD005,1600,1600,2.63,accepted,Inspection certificate required
+POL000485-1,PO000485,1,PRD011,1200,1200,2.79,conditional,Expedite requested by planner
+POL000486-1,PO000486,1,PRD002,800,800,1.84,accepted,Expedite requested by planner
+POL000486-2,PO000486,2,PRD011,1000,837,2.79,accepted,Routine replenishment
+POL000489-1,PO000489,1,PRD020,400,400,3.03,accepted,Partial receipt allowed
+POL000491-1,PO000491,1,PRD013,300,258,1.37,accepted,Expedite requested by planner
+POL000491-2,PO000491,2,PRD010,175,175,0.96,accepted,Routine replenishment
+POL000492-1,PO000492,1,PRD004,25,25,1.64,accepted,Expedite requested by planner
+POL000492-2,PO000492,2,PRD011,200,200,2.72,accepted,Partial receipt allowed
+POL000493-1,PO000493,1,PRD006,600,537,1.47,accepted,Routine replenishment
+POL000493-2,PO000493,2,PRD012,800,800,1.17,accepted,Expedite requested by planner
+POL000494-1,PO000494,1,PRD003,100,100,0.54,accepted,Partial receipt allowed
+POL000495-1,PO000495,1,PRD004,50,50,1.60,accepted,Expedite requested by planner
+POL000496-1,PO000496,1,PRD003,350,350,0.54,accepted,Partial receipt allowed
+POL000497-1,PO000497,1,PRD015,800,800,3.50,accepted,Expedite requested by planner
+POL000499-1,PO000499,1,PRD012,100,100,1.17,accepted,Inspection certificate required
+POL000499-2,PO000499,2,PRD006,1000,923,1.47,accepted,Partial receipt allowed
+POL000501-1,PO000501,1,PRD010,150,150,0.57,rejected,Inspection certificate required
+POL000502-1,PO000502,1,PRD015,125,125,2.26,accepted,Routine replenishment
+POL000503-1,PO000503,1,PRD018,150,150,3.23,accepted,Inspection certificate required
+POL000504-1,PO000504,1,PRD005,400,361,2.35,accepted,Partial receipt allowed
+POL000505-1,PO000505,1,PRD012,150,150,1.18,accepted,Inspection certificate required
+POL000505-2,PO000505,2,PRD019,400,400,1.20,accepted,Partial receipt allowed
+POL000506-1,PO000506,1,PRD007,800,672,0.99,conditional,Routine replenishment
+POL000507-1,PO000507,1,PRD005,400,387,2.35,accepted,Expedite requested by planner
+POL000508-1,PO000508,1,PRD015,800,800,3.50,accepted,Expedite requested by planner
+POL000509-1,PO000509,1,PRD017,1200,1200,4.86,conditional,Partial receipt allowed
+POL000510-1,PO000510,1,PRD004,400,391,2.28,accepted,Routine replenishment
+POL000510-2,PO000510,2,PRD001,350,298,2.13,accepted,Expedite requested by planner
+POL000510-3,PO000510,3,PRD018,300,300,2.24,accepted,Routine replenishment
+POL000511-1,PO000511,1,PRD006,1600,1320,1.47,rejected,Expedite requested by planner
+POL000511-2,PO000511,2,PRD012,600,600,1.17,accepted,Expedite requested by planner
+POL000512-1,PO000512,1,PRD018,350,350,2.70,conditional,Expedite requested by planner
+POL000512-2,PO000512,2,PRD012,1600,1600,0.71,accepted,Routine replenishment
+POL000514-1,PO000514,1,PRD008,600,566,1.85,accepted,Inspection certificate required
+POL000515-1,PO000515,1,PRD002,600,600,1.84,accepted,Inspection certificate required
+POL000516-1,PO000516,1,PRD015,1400,1400,3.50,accepted,Expedite requested by planner
+POL000517-1,PO000517,1,PRD016,100,100,4.41,accepted,Partial receipt allowed
+POL000518-1,PO000518,1,PRD014,350,350,2.69,accepted,Routine replenishment
+POL000518-2,PO000518,2,PRD016,200,167,3.97,accepted,Routine replenishment
+POL000519-1,PO000519,1,PRD010,600,600,0.83,accepted,Routine replenishment
+POL000520-1,PO000520,1,PRD017,800,800,3.30,accepted,Inspection certificate required
+POL000520-2,PO000520,2,PRD009,400,400,1.13,accepted,Inspection certificate required
+POL000520-3,PO000520,3,PRD011,800,800,1.77,accepted,Expedite requested by planner
+POL000523-1,PO000523,1,PRD015,150,150,2.26,accepted,Expedite requested by planner
+POL000524-1,PO000524,1,PRD004,800,800,1.33,accepted,Partial receipt allowed
+POL000525-1,PO000525,1,PRD007,200,200,0.99,accepted,Inspection certificate required
+POL000525-2,PO000525,2,PRD010,400,334,0.83,accepted,Partial receipt allowed
+POL000525-3,PO000525,3,PRD016,50,50,4.22,accepted,Expedite requested by planner
+POL000526-1,PO000526,1,PRD009,50,50,1.15,accepted,Partial receipt allowed
+POL000526-2,PO000526,2,PRD005,200,189,2.63,conditional,Expedite requested by planner
+POL000527-1,PO000527,1,PRD010,700,700,0.83,accepted,Inspection certificate required
+POL000528-1,PO000528,1,PRD018,125,125,3.23,accepted,Expedite requested by planner
+POL000529-1,PO000529,1,PRD001,300,300,2.13,accepted,Routine replenishment
+POL000530-1,PO000530,1,PRD019,700,700,2.05,accepted,Routine replenishment
+POL000531-1,PO000531,1,PRD017,1000,884,5.07,rejected,Inspection certificate required
+POL000531-2,PO000531,2,PRD015,75,75,2.29,accepted,Expedite requested by planner
+POL000532-1,PO000532,1,PRD002,600,561,1.84,accepted,Partial receipt allowed
+POL000532-2,PO000532,2,PRD011,1200,1200,2.79,accepted,Routine replenishment
+POL000533-1,PO000533,1,PRD018,200,165,3.23,accepted,Expedite requested by planner
+POL000534-1,PO000534,1,PRD008,175,175,1.31,accepted,Inspection certificate required
+POL000534-2,PO000534,2,PRD013,200,200,1.20,rejected,Inspection certificate required
+POL000535-1,PO000535,1,PRD013,400,394,1.69,accepted,Inspection certificate required
+POL000536-1,PO000536,1,PRD010,125,125,0.96,accepted,Inspection certificate required
+POL000537-1,PO000537,1,PRD008,1000,1000,1.85,conditional,Inspection certificate required
+POL000538-1,PO000538,1,PRD006,25,25,1.21,accepted,Routine replenishment
+POL000540-1,PO000540,1,PRD004,200,200,1.33,rejected,Expedite requested by planner
+POL000541-1,PO000541,1,PRD020,800,800,4.21,accepted,Expedite requested by planner
+POL000541-2,PO000541,2,PRD005,100,86,1.63,accepted,Routine replenishment
+POL000542-1,PO000542,1,PRD002,100,100,1.54,conditional,Inspection certificate required
+POL000542-2,PO000542,2,PRD001,50,50,2.43,conditional,Inspection certificate required
+POL000542-3,PO000542,3,PRD014,100,100,3.44,accepted,Inspection certificate required
+POL000545-1,PO000545,1,PRD016,400,400,4.41,accepted,Expedite requested by planner
+POL000547-1,PO000547,1,PRD005,50,50,1.63,accepted,Expedite requested by planner
+POL000547-2,PO000547,2,PRD020,1600,1600,4.21,accepted,Routine replenishment
+POL000548-1,PO000548,1,PRD015,175,175,2.26,accepted,Routine replenishment
+POL000549-1,PO000549,1,PRD017,1000,848,5.07,conditional,Expedite requested by planner
+POL000549-2,PO000549,2,PRD015,125,106,2.29,accepted,Routine replenishment
+POL000550-1,PO000550,1,PRD002,1200,1200,1.84,accepted,Partial receipt allowed
+POL000552-1,PO000552,1,PRD016,1400,1400,3.97,accepted,Routine replenishment
+POL000552-2,PO000552,2,PRD014,150,150,2.69,accepted,Expedite requested by planner
+POL000554-1,PO000554,1,PRD017,1600,1600,5.07,accepted,Expedite requested by planner
+POL000554-2,PO000554,2,PRD015,100,100,2.29,accepted,Expedite requested by planner
+POL000555-1,PO000555,1,PRD015,75,72,2.26,accepted,Partial receipt allowed
+POL000556-1,PO000556,1,PRD013,400,400,1.37,accepted,Inspection certificate required
+POL000556-2,PO000556,2,PRD010,125,114,0.96,accepted,Partial receipt allowed
+POL000558-1,PO000558,1,PRD016,400,400,4.41,accepted,Routine replenishment
+POL000560-1,PO000560,1,PRD006,25,25,1.00,accepted,Routine replenishment
+POL000561-1,PO000561,1,PRD010,200,200,0.57,accepted,Expedite requested by planner
+POL000564-1,PO000564,1,PRD007,400,400,0.99,accepted,Partial receipt allowed
+POL000564-2,PO000564,2,PRD010,100,100,0.83,accepted,Expedite requested by planner
+POL000565-1,PO000565,1,PRD014,100,100,3.44,accepted,Expedite requested by planner
+POL000565-2,PO000565,2,PRD001,100,100,2.43,accepted,Expedite requested by planner
+POL000565-3,PO000565,3,PRD002,100,100,1.54,accepted,Inspection certificate required
+POL000567-1,PO000567,1,PRD012,1400,1400,0.71,accepted,Partial receipt allowed
+POL000567-2,PO000567,2,PRD002,100,100,1.98,accepted,Expedite requested by planner
+POL000568-1,PO000568,1,PRD002,100,100,1.98,rejected,Routine replenishment
+POL000568-2,PO000568,2,PRD018,200,200,2.70,conditional,Inspection certificate required
+POL000569-1,PO000569,1,PRD005,200,200,1.63,accepted,Partial receipt allowed
+POL000570-1,PO000570,1,PRD010,50,50,0.82,accepted,Inspection certificate required
+POL000571-1,PO000571,1,PRD010,200,200,0.83,accepted,Routine replenishment
+POL000572-1,PO000572,1,PRD004,400,400,2.28,accepted,Partial receipt allowed
+POL000572-2,PO000572,2,PRD018,100,90,2.24,accepted,Inspection certificate required
+POL000572-3,PO000572,3,PRD001,100,100,2.13,accepted,Expedite requested by planner
+POL000573-1,PO000573,1,PRD015,150,150,2.26,accepted,Partial receipt allowed
+POL000574-1,PO000574,1,PRD010,175,175,0.82,accepted,Expedite requested by planner
+POL000575-1,PO000575,1,PRD015,600,600,3.50,accepted,Routine replenishment
+POL000576-1,PO000576,1,PRD017,800,800,3.30,accepted,Expedite requested by planner
+POL000577-1,PO000577,1,PRD015,75,75,2.26,accepted,Routine replenishment
+POL000578-1,PO000578,1,PRD003,175,175,0.57,accepted,Inspection certificate required
+POL000578-2,PO000578,2,PRD007,200,200,1.25,accepted,Expedite requested by planner
+POL000578-3,PO000578,3,PRD005,400,400,2.35,accepted,Expedite requested by planner
+POL000580-1,PO000580,1,PRD011,600,600,1.77,accepted,Expedite requested by planner
+POL000580-2,PO000580,2,PRD009,1600,1600,1.13,accepted,Expedite requested by planner
+POL000581-1,PO000581,1,PRD006,600,600,1.47,accepted,Expedite requested by planner
+POL000584-1,PO000584,1,PRD016,400,400,4.41,accepted,Expedite requested by planner
+POL000585-1,PO000585,1,PRD010,75,75,0.82,accepted,Inspection certificate required
+POL000586-1,PO000586,1,PRD018,400,400,2.24,accepted,Inspection certificate required
+POL000588-1,PO000588,1,PRD006,200,200,1.21,accepted,Partial receipt allowed
+POL000588-2,PO000588,2,PRD012,150,147,0.94,rejected,Inspection certificate required
+POL000588-3,PO000588,3,PRD019,600,600,2.05,accepted,Partial receipt allowed
+POL000589-1,PO000589,1,PRD011,1000,830,2.79,rejected,Partial receipt allowed
+POL000592-1,PO000592,1,PRD001,100,100,2.43,accepted,Partial receipt allowed
+POL000592-2,PO000592,2,PRD015,200,200,2.26,accepted,Partial receipt allowed
+POL000595-1,PO000595,1,PRD008,50,50,1.31,accepted,Expedite requested by planner
+POL000595-2,PO000595,2,PRD013,150,150,1.20,accepted,Expedite requested by planner
+POL000596-1,PO000596,1,PRD013,400,352,1.69,accepted,Inspection certificate required
+POL000596-2,PO000596,2,PRD017,1400,1400,4.86,accepted,Routine replenishment
+POL000598-1,PO000598,1,PRD020,100,100,3.03,accepted,Expedite requested by planner
+POL000599-1,PO000599,1,PRD014,400,400,2.69,accepted,Inspection certificate required
+POL000599-2,PO000599,2,PRD016,200,200,3.97,accepted,Partial receipt allowed
+POL000600-1,PO000600,1,PRD006,75,75,1.21,rejected,Expedite requested by planner
+POL000600-2,PO000600,2,PRD019,400,400,2.05,accepted,Partial receipt allowed
+POL000600-3,PO000600,3,PRD012,400,400,0.94,rejected,Inspection certificate required
+POL000602-1,PO000602,1,PRD004,75,62,1.60,rejected,Expedite requested by planner
+POL000603-1,PO000603,1,PRD012,150,150,0.94,accepted,Expedite requested by planner
+POL000604-1,PO000604,1,PRD010,150,125,0.82,accepted,Expedite requested by planner
+POL000605-1,PO000605,1,PRD010,25,25,0.96,accepted,Inspection certificate required
+POL000605-2,PO000605,2,PRD013,600,600,1.37,accepted,Expedite requested by planner
+POL000606-1,PO000606,1,PRD020,800,764,3.03,accepted,Routine replenishment
+POL000607-1,PO000607,1,PRD002,300,275,1.98,conditional,Routine replenishment
+POL000607-2,PO000607,2,PRD012,1200,1200,0.71,accepted,Partial receipt allowed
+POL000608-1,PO000608,1,PRD013,150,148,1.69,accepted,Expedite requested by planner
+POL000609-1,PO000609,1,PRD009,1000,1000,1.13,conditional,Expedite requested by planner
+POL000609-2,PO000609,2,PRD011,1200,1200,1.77,conditional,Partial receipt allowed
+POL000609-3,PO000609,3,PRD017,400,400,3.30,rejected,Inspection certificate required
+POL000611-1,PO000611,1,PRD011,800,800,2.72,accepted,Inspection certificate required
+POL000612-1,PO000612,1,PRD011,1600,1600,2.79,accepted,Partial receipt allowed
+POL000613-1,PO000613,1,PRD016,100,100,4.41,accepted,Inspection certificate required
+POL000614-1,PO000614,1,PRD011,800,800,2.79,accepted,Inspection certificate required
+POL000615-1,PO000615,1,PRD019,50,45,1.20,accepted,Partial receipt allowed
+POL000616-1,PO000616,1,PRD006,1200,995,1.47,accepted,Expedite requested by planner
+POL000616-2,PO000616,2,PRD012,800,773,1.17,accepted,Partial receipt allowed
+POL000618-1,PO000618,1,PRD015,600,600,3.50,accepted,Inspection certificate required
+POL000621-1,PO000621,1,PRD015,75,75,2.26,rejected,Inspection certificate required
+POL000622-1,PO000622,1,PRD008,1600,1600,1.85,accepted,Inspection certificate required
+POL000623-1,PO000623,1,PRD012,800,800,0.71,accepted,Inspection certificate required
+POL000623-2,PO000623,2,PRD013,300,300,1.03,conditional,Inspection certificate required
+POL000623-3,PO000623,3,PRD018,200,200,2.70,accepted,Inspection certificate required
+POL000624-1,PO000624,1,PRD015,25,25,2.26,conditional,Expedite requested by planner
+POL000625-1,PO000625,1,PRD002,1600,1600,1.84,accepted,Routine replenishment
+POL000625-2,PO000625,2,PRD011,400,400,2.79,accepted,Partial receipt allowed
+POL000627-1,PO000627,1,PRD008,1200,1200,1.85,rejected,Inspection certificate required
+POL000628-1,PO000628,1,PRD017,1000,996,4.86,accepted,Expedite requested by planner
+POL000628-2,PO000628,2,PRD013,400,400,1.69,accepted,Expedite requested by planner
+POL000629-1,PO000629,1,PRD015,1600,1299,3.50,accepted,Expedite requested by planner
+POL000630-1,PO000630,1,PRD018,150,150,3.23,accepted,Inspection certificate required
+POL000631-1,PO000631,1,PRD015,175,175,2.26,accepted,Routine replenishment
+POL000633-1,PO000633,1,PRD015,25,25,2.29,accepted,Routine replenishment
+POL000633-2,PO000633,2,PRD017,200,200,5.07,accepted,Partial receipt allowed
+POL000634-1,PO000634,1,PRD016,600,600,4.41,accepted,Partial receipt allowed
+POL000635-1,PO000635,1,PRD013,175,175,1.20,accepted,Partial receipt allowed
+POL000635-2,PO000635,2,PRD008,150,150,1.31,accepted,Expedite requested by planner
+POL000636-1,PO000636,1,PRD010,50,50,0.82,accepted,Partial receipt allowed
+POL000637-1,PO000637,1,PRD009,200,200,1.13,accepted,Expedite requested by planner
+POL000637-2,PO000637,2,PRD011,400,400,1.77,accepted,Partial receipt allowed
+POL000638-1,PO000638,1,PRD005,100,100,1.63,accepted,Routine replenishment
+POL000638-2,PO000638,2,PRD020,600,600,4.21,accepted,Routine replenishment
+POL000641-1,PO000641,1,PRD017,200,200,4.86,accepted,Partial receipt allowed
+POL000641-2,PO000641,2,PRD013,300,300,1.69,conditional,Routine replenishment
+POL000642-1,PO000642,1,PRD012,50,41,0.94,accepted,Inspection certificate required
+POL000642-2,PO000642,2,PRD019,500,500,2.05,accepted,Partial receipt allowed
+POL000642-3,PO000642,3,PRD006,125,125,1.21,accepted,Expedite requested by planner
+POL000643-1,PO000643,1,PRD002,400,400,1.98,conditional,Partial receipt allowed
+POL000644-1,PO000644,1,PRD009,1200,1200,1.13,accepted,Expedite requested by planner
+POL000645-1,PO000645,1,PRD016,300,300,4.41,accepted,Partial receipt allowed
+POL000648-1,PO000648,1,PRD004,100,100,1.33,accepted,Routine replenishment
+POL000649-1,PO000649,1,PRD009,100,100,1.15,conditional,Inspection certificate required
+POL000649-2,PO000649,2,PRD005,1600,1361,2.63,accepted,Partial receipt allowed
+POL000650-1,PO000650,1,PRD004,175,175,1.60,accepted,Routine replenishment
+POL000652-1,PO000652,1,PRD020,800,800,3.03,accepted,Partial receipt allowed
+POL000654-1,PO000654,1,PRD007,1400,1400,0.99,accepted,Partial receipt allowed
+POL000654-2,PO000654,2,PRD010,400,376,0.83,accepted,Expedite requested by planner
+POL000655-1,PO000655,1,PRD008,75,75,1.31,accepted,Routine replenishment
+POL000656-1,PO000656,1,PRD014,250,250,2.69,accepted,Expedite requested by planner
+POL000656-2,PO000656,2,PRD016,600,600,3.97,accepted,Inspection certificate required
+POL000657-1,PO000657,1,PRD001,200,168,2.43,accepted,Inspection certificate required
+POL000657-2,PO000657,2,PRD014,75,75,3.44,accepted,Inspection certificate required
+POL000657-3,PO000657,3,PRD002,200,200,1.54,accepted,Routine replenishment
+POL000658-1,PO000658,1,PRD003,250,250,0.54,rejected,Partial receipt allowed
+POL000659-1,PO000659,1,PRD003,300,300,0.54,accepted,Expedite requested by planner
+POL000660-1,PO000660,1,PRD005,1200,1200,2.35,conditional,Partial receipt allowed
+POL000660-2,PO000660,2,PRD003,75,61,0.57,accepted,Partial receipt allowed
+POL000660-3,PO000660,3,PRD007,300,271,1.25,accepted,Routine replenishment
+POL000661-1,PO000661,1,PRD006,200,200,1.00,accepted,Inspection certificate required
+POL000662-1,PO000662,1,PRD018,75,75,3.23,accepted,Expedite requested by planner
+POL000663-1,PO000663,1,PRD004,100,100,1.33,accepted,Inspection certificate required
+POL000664-1,PO000664,1,PRD003,100,100,0.54,accepted,Routine replenishment
+POL000665-1,PO000665,1,PRD017,1600,1600,4.86,accepted,Expedite requested by planner
+POL000665-2,PO000665,2,PRD013,100,100,1.69,rejected,Routine replenishment
+POL000666-1,PO000666,1,PRD011,500,500,2.72,accepted,Partial receipt allowed
+POL000666-2,PO000666,2,PRD004,200,192,1.64,conditional,Partial receipt allowed
+POL000667-1,PO000667,1,PRD012,300,300,1.17,rejected,Routine replenishment
+POL000667-2,PO000667,2,PRD006,200,200,1.47,accepted,Partial receipt allowed
+POL000668-1,PO000668,1,PRD008,1000,893,1.85,conditional,Inspection certificate required
+POL000669-1,PO000669,1,PRD016,400,400,4.41,accepted,Partial receipt allowed
+POL000670-1,PO000670,1,PRD017,200,200,5.07,accepted,Routine replenishment
+POL000671-1,PO000671,1,PRD017,1200,992,5.07,accepted,Partial receipt allowed
+POL000673-1,PO000673,1,PRD013,600,600,1.37,accepted,Partial receipt allowed
+POL000673-2,PO000673,2,PRD010,50,50,0.96,accepted,Inspection certificate required
+POL000674-1,PO000674,1,PRD017,200,190,4.86,accepted,Inspection certificate required
+POL000674-2,PO000674,2,PRD013,350,350,1.69,accepted,Inspection certificate required
+POL000675-1,PO000675,1,PRD020,150,150,4.28,conditional,Partial receipt allowed
+POL000675-2,PO000675,2,PRD012,25,25,1.18,accepted,Expedite requested by planner
+POL000677-1,PO000677,1,PRD011,1600,1600,2.79,accepted,Partial receipt allowed
+POL000678-1,PO000678,1,PRD004,100,100,1.64,accepted,Partial receipt allowed
+POL000678-2,PO000678,2,PRD011,800,800,2.72,accepted,Routine replenishment
+POL000679-1,PO000679,1,PRD006,125,125,1.00,accepted,Routine replenishment
+POL000680-1,PO000680,1,PRD013,800,800,1.37,rejected,Expedite requested by planner
+POL000680-2,PO000680,2,PRD010,125,103,0.96,accepted,Expedite requested by planner
+POL000681-1,PO000681,1,PRD020,800,800,3.03,accepted,Routine replenishment
+POL000682-1,PO000682,1,PRD015,200,200,2.29,accepted,Routine replenishment
+POL000682-2,PO000682,2,PRD017,1600,1463,5.07,accepted,Routine replenishment
+POL000684-1,PO000684,1,PRD004,500,500,1.33,accepted,Expedite requested by planner
+POL000686-1,PO000686,1,PRD004,50,50,1.60,accepted,Inspection certificate required
+POL000688-1,PO000688,1,PRD009,100,100,1.33,accepted,Partial receipt allowed
+POL000689-1,PO000689,1,PRD016,400,400,4.41,accepted,Inspection certificate required
+POL000690-1,PO000690,1,PRD013,200,200,1.03,accepted,Expedite requested by planner
+POL000690-2,PO000690,2,PRD018,100,100,2.70,accepted,Partial receipt allowed
+POL000691-1,PO000691,1,PRD006,150,150,1.00,accepted,Routine replenishment
+POL000692-1,PO000692,1,PRD005,1400,1400,2.35,accepted,Expedite requested by planner
+POL000692-2,PO000692,2,PRD003,50,47,0.57,accepted,Routine replenishment
+POL000692-3,PO000692,3,PRD007,200,185,1.25,accepted,Expedite requested by planner
+POL000693-1,PO000693,1,PRD018,75,75,3.23,accepted,Expedite requested by planner
+POL000694-1,PO000694,1,PRD008,25,25,1.31,accepted,Expedite requested by planner
+POL000694-2,PO000694,2,PRD013,125,115,1.20,accepted,Routine replenishment
+POL000696-1,PO000696,1,PRD020,1600,1600,4.21,accepted,Expedite requested by planner
+POL000696-2,PO000696,2,PRD005,25,25,1.63,accepted,Expedite requested by planner
+POL000697-1,PO000697,1,PRD010,50,50,0.96,accepted,Partial receipt allowed
+POL000697-2,PO000697,2,PRD013,400,400,1.37,accepted,Routine replenishment
+POL000699-1,PO000699,1,PRD013,150,150,1.20,accepted,Expedite requested by planner
+POL000700-1,PO000700,1,PRD001,100,100,2.43,accepted,Partial receipt allowed
+POL000700-2,PO000700,2,PRD014,100,100,3.44,accepted,Inspection certificate required

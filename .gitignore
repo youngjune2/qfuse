@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local config / secrets
+.env
+.env.*
+
+# Stores & run outputs (regenerated)
+chroma_db/
+graphrag_cache/
+results/
+logs/
+*.log
+
+# Figure build artifacts (scripts are versioned; outputs are not)
+figs/
+
+# OS
+.DS_Store

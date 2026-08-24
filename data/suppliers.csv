@@ -1,0 +1,41 @@
+﻿supplier_id,supplier_name,country,risk_tier,lead_time_days,payment_terms,certifications
+SUP001,Freshway Consumer Goods 01,US,medium,37,NET60,ISO 9001;ISO 14001
+SUP002,Freshway Consumer Goods 02,CA,low,34,NET15,ISO 9001;RoHS
+SUP003,Everyday Consumer Goods 03,MX,medium,33,NET60,IATF 16949
+SUP004,ValueMart Consumer Goods 04,US,high,42,NET15,ISO 9001;ISO 14001
+SUP005,Freshway Consumer Goods 05,US,medium,24,NET45,ISO 9001;ISO 14001
+SUP006,Northstar Consumer Goods 06,VN,medium,7,NET15,ISO 9001;RoHS
+SUP007,Freshway Consumer Goods 07,MX,high,26,NET30,ISO 9001;ISO 14001
+SUP008,Everyday Consumer Goods 08,US,medium,13,NET45,ISO 9001
+SUP009,Northstar Consumer Goods 09,DE,medium,35,NET30,ISO 9001;ISO 14001
+SUP010,ValueMart Consumer Goods 10,US,high,5,NET45,ISO 9001;RoHS
+SUP011,Northstar Consumer Goods 11,US,low,4,NET60,ISO 9001;RoHS
+SUP012,Everyday Consumer Goods 12,DE,high,38,NET45,ISO 9001;ISO 14001
+SUP013,ValueMart Consumer Goods 13,CA,high,29,NET15,ISO 9001
+SUP014,Freshway Consumer Goods 14,US,medium,41,NET15,IATF 16949
+SUP015,Northstar Consumer Goods 15,DE,medium,37,NET30,ISO 9001;ISO 14001
+SUP016,Northstar Consumer Goods 16,US,medium,21,NET15,IATF 16949
+SUP017,Everyday Consumer Goods 17,US,low,18,NET15,ISO 9001;ISO 14001
+SUP018,ValueMart Consumer Goods 18,US,medium,35,NET60,ISO 9001
+SUP019,HomeChoice Consumer Goods 19,CN,low,13,NET30,ISO 9001;RoHS
+SUP020,HomeChoice Consumer Goods 20,CA,low,35,NET60,IATF 16949
+SUP021,Freshway Consumer Goods 21,CA,high,9,NET30,IATF 16949
+SUP022,Everyday Consumer Goods 22,US,medium,36,NET60,ISO 9001;RoHS
+SUP023,ValueMart Consumer Goods 23,VN,medium,8,NET15,ISO 9001;RoHS
+SUP024,Freshway Consumer Goods 24,US,high,41,NET30,ISO 9001
+SUP025,HomeChoice Consumer Goods 25,US,medium,4,NET30,ISO 9001;RoHS
+SUP026,Everyday Consumer Goods 26,DE,low,31,NET30,ISO 9001
+SUP027,Freshway Consumer Goods 27,US,medium,40,NET15,ISO 9001;ISO 14001
+SUP028,Harvest Consumer Goods 28,CA,medium,19,NET60,IATF 16949
+SUP029,HomeChoice Consumer Goods 29,US,high,5,NET15,ISO 9001;ISO 14001
+SUP030,HomeChoice Consumer Goods 30,MX,low,7,NET30,ISO 9001
+SUP031,Harvest Consumer Goods 31,US,high,36,NET60,ISO 9001;RoHS
+SUP032,Everyday Consumer Goods 32,US,medium,6,NET45,IATF 16949
+SUP033,ValueMart Consumer Goods 33,CN,low,34,NET15,ISO 9001;RoHS
+SUP034,Northstar Consumer Goods 34,VN,medium,29,NET30,IATF 16949
+SUP035,Northstar Consumer Goods 35,US,high,13,NET15,ISO 9001
+SUP036,Northstar Consumer Goods 36,VN,medium,32,NET45,ISO 9001;ISO 14001
+SUP037,Everyday Consumer Goods 37,MX,medium,38,NET15,ISO 9001;ISO 14001
+SUP038,Everyday Consumer Goods 38,US,medium,26,NET45,ISO 9001
+SUP039,Harvest Consumer Goods 39,US,medium,25,NET30,IATF 16949
+SUP040,Harvest Consumer Goods 40,US,medium,4,NET60,IATF 16949

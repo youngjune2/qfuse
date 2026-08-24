@@ -1,0 +1,18 @@
+Synthetic Dataset License — Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The synthetic manufacturing / supply-chain dataset in this directory
+(relational tables, document corpus, evaluation questions, and gold paths) is
+licensed under CC BY 4.0. You are free to share and adapt the material for any
+purpose, provided that appropriate credit is given.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Please cite the accompanying paper:
+
+  Youngjune Kang, Jaehyung Yoon, Chae Eun Youn, Kyungeun Kim, and Youngjae Kim.
+  QFuse: Preserving Precise Queryability in Knowledge Graphs over Structured
+  and Unstructured Data.
+
+Note: This dataset is fully synthetic and modeled on the structure of the
+Walmart M5 forecasting dataset. It contains no real customer, supplier, or
+proprietary business data.

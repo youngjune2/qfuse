@@ -1,0 +1,181 @@
+﻿contract_id,customer_id,start_date,end_date,service_level,annual_value,renewal_type,terms_summary
+CTR00001,C148,2025-12-04,2028-12-03,business,16732.02,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00002,C020,2026-05-21,2029-05-20,basic,5099.76,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00003,C016,2025-04-07,2026-04-07,basic,10164.17,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00004,C145,2026-02-23,2029-02-22,plus,12333.31,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00005,C172,2026-06-12,2028-06-11,business,10215.57,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00006,C178,2025-03-05,2028-03-04,business,2228.67,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00007,C029,2024-07-26,2025-07-26,plus,15001.50,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00008,C006,2026-02-22,2029-02-21,plus,3841.87,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00009,C030,2024-02-27,2026-02-26,business,17350.58,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00010,C120,2025-10-14,2026-10-14,plus,8441.68,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00011,C206,2026-05-06,2028-05-05,business,9883.42,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00012,C149,2025-07-20,2027-07-20,plus,2174.17,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00013,C079,2026-06-21,2028-06-20,plus,8290.85,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00014,C150,2026-04-11,2028-04-10,basic,6086.75,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00015,C024,2026-11-05,2027-11-05,basic,5592.11,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00016,C140,2025-01-19,2028-01-19,basic,3858.98,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00017,C040,2026-02-23,2029-02-22,business,7745.34,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00018,C037,2024-09-22,2025-09-22,basic,12334.35,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00019,C144,2025-03-24,2026-03-24,plus,17267.34,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00020,C140,2026-05-09,2028-05-08,business,17000.55,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00021,C161,2025-07-04,2026-07-04,plus,15013.26,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00022,C081,2025-11-11,2027-11-11,plus,17982.35,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00023,C173,2025-08-09,2027-08-09,basic,16467.25,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00024,C178,2026-02-19,2027-02-19,basic,4944.65,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00025,C185,2024-04-15,2027-04-15,basic,8816.25,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00026,C227,2024-01-23,2026-01-22,plus,127.94,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00027,C177,2025-04-24,2027-04-24,plus,521.30,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00028,C076,2024-06-27,2027-06-27,plus,1614.70,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00029,C092,2026-09-18,2029-09-17,basic,17001.00,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00030,C113,2024-02-12,2027-02-11,plus,8159.65,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00031,C184,2025-06-11,2028-06-10,business,14244.03,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00032,C070,2026-04-16,2028-04-15,business,3408.61,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00033,C098,2025-11-12,2026-11-12,basic,1040.61,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00034,C146,2026-04-24,2027-04-24,basic,13162.45,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00035,C216,2026-03-16,2028-03-15,plus,10217.44,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00036,C232,2024-04-22,2027-04-22,business,14034.09,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00037,C121,2025-10-24,2026-10-24,basic,8122.89,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00038,C184,2026-01-19,2029-01-18,plus,5977.56,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00039,C125,2026-01-12,2028-01-12,basic,9791.88,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00040,C149,2024-10-05,2025-10-05,plus,15596.81,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00041,C144,2025-10-25,2027-10-25,business,11080.98,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00042,C188,2026-12-22,2027-12-22,basic,2647.26,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00043,C064,2024-10-24,2027-10-24,plus,12365.60,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00044,C013,2025-05-06,2026-05-06,basic,14291.86,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00045,C040,2024-06-06,2027-06-06,plus,10901.06,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00046,C201,2026-12-24,2029-12-23,business,10495.14,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00047,C179,2025-05-06,2026-05-06,basic,14070.50,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00048,C137,2026-07-02,2028-07-01,basic,12634.08,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00049,C080,2025-04-22,2027-04-22,business,4817.97,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00050,C132,2025-07-28,2027-07-28,business,12136.34,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00051,C152,2026-05-25,2028-05-24,basic,16223.55,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00052,C017,2024-07-10,2026-07-10,business,1124.49,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00053,C165,2026-11-03,2028-11-02,business,8013.28,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00054,C056,2026-05-15,2029-05-14,basic,16065.44,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00055,C183,2026-11-01,2028-10-31,basic,17626.60,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00056,C111,2025-07-30,2026-07-30,basic,13933.06,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00057,C184,2024-11-30,2026-11-30,business,5273.25,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00058,C219,2026-09-12,2027-09-12,plus,14456.76,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00059,C142,2025-04-28,2027-04-28,basic,7742.49,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00060,C159,2024-02-21,2027-02-20,plus,4286.78,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00061,C054,2025-02-28,2027-02-28,basic,5031.88,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00062,C201,2024-01-12,2026-01-11,basic,3541.46,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00063,C183,2026-04-20,2027-04-20,basic,5661.20,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00064,C204,2024-11-18,2025-11-18,plus,1347.96,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00065,C084,2025-10-20,2028-10-19,business,6535.43,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00066,C207,2025-03-03,2027-03-03,basic,11568.99,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00067,C224,2024-11-01,2025-11-01,plus,11870.42,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00068,C222,2025-06-09,2026-06-09,basic,14336.73,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00069,C088,2025-11-12,2026-11-12,basic,4031.66,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00070,C238,2024-11-19,2027-11-19,basic,9759.15,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00071,C105,2024-02-20,2027-02-19,business,15998.59,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00072,C073,2024-02-08,2026-02-07,basic,11353.13,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00073,C214,2026-04-01,2029-03-31,plus,9694.83,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00074,C102,2026-02-14,2028-02-14,plus,8520.94,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00075,C063,2024-10-12,2026-10-12,plus,1871.31,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00076,C194,2026-03-23,2029-03-22,business,16014.76,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00077,C026,2024-05-09,2025-05-09,business,12347.12,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00078,C217,2024-02-29,2026-02-28,business,15487.98,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00079,C013,2024-07-14,2027-07-14,basic,16766.67,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00080,C025,2024-04-29,2027-04-29,basic,15314.04,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00081,C202,2024-03-08,2027-03-08,plus,4803.64,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00082,C135,2024-07-09,2027-07-09,business,3468.58,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00083,C051,2024-08-18,2025-08-18,business,11362.74,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00084,C077,2025-11-03,2028-11-02,basic,2388.32,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00085,C177,2026-04-25,2028-04-24,basic,1190.79,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00086,C204,2024-07-04,2026-07-04,plus,1393.28,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00087,C021,2024-06-22,2027-06-22,business,5738.89,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00088,C080,2024-06-25,2027-06-25,basic,16579.50,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00089,C122,2025-06-18,2027-06-18,business,14651.53,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00090,C059,2025-09-03,2027-09-03,plus,8353.56,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00091,C031,2024-02-18,2025-02-17,business,14411.71,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00092,C067,2024-01-13,2025-01-12,business,17502.53,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00093,C145,2026-10-11,2028-10-10,plus,7715.68,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00094,C001,2025-11-19,2027-11-19,basic,12360.56,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00095,C152,2025-03-02,2028-03-01,business,2322.07,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00096,C117,2025-11-03,2026-11-03,plus,13468.57,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00097,C205,2026-05-26,2027-05-26,basic,13609.48,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00098,C213,2026-07-20,2029-07-19,basic,803.79,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00099,C191,2025-12-07,2027-12-07,business,5927.20,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00100,C199,2025-11-08,2027-11-08,basic,17283.52,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00101,C181,2025-07-23,2026-07-23,basic,653.88,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00102,C068,2024-06-06,2027-06-06,business,10593.64,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00103,C125,2025-04-04,2027-04-04,business,2879.15,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00104,C033,2026-10-30,2028-10-29,plus,4800.22,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00105,C098,2025-11-16,2026-11-16,basic,13653.33,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00106,C063,2025-11-06,2028-11-05,plus,8045.91,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00107,C235,2025-01-24,2028-01-24,plus,9968.79,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00108,C038,2026-08-30,2027-08-30,business,17236.38,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00109,C102,2025-12-14,2026-12-14,basic,3438.11,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00110,C199,2025-12-30,2027-12-30,plus,12257.63,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00111,C087,2025-12-06,2028-12-05,business,14681.70,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00112,C173,2025-09-19,2026-09-19,basic,15285.00,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00113,C172,2026-05-25,2028-05-24,plus,115.78,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00114,C088,2024-09-06,2025-09-06,basic,15591.36,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00115,C206,2026-03-06,2028-03-05,business,14518.14,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00116,C014,2025-10-01,2027-10-01,basic,10613.59,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00117,C096,2025-01-17,2027-01-17,basic,388.96,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00118,C079,2026-11-12,2027-11-12,business,13771.08,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00119,C193,2024-12-24,2025-12-24,business,17230.66,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00120,C073,2024-01-05,2026-01-04,basic,13740.22,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00121,C084,2024-07-13,2025-07-13,plus,500.76,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00122,C069,2026-09-04,2029-09-03,plus,14966.78,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00123,C083,2025-10-17,2028-10-16,business,16682.64,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00124,C107,2026-07-01,2029-06-30,business,239.23,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00125,C118,2025-08-06,2026-08-06,business,8792.60,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00126,C232,2024-02-20,2025-02-19,plus,2310.50,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00127,C065,2025-01-05,2028-01-05,plus,17235.74,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00128,C128,2024-04-14,2027-04-14,plus,1646.47,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00129,C092,2024-01-15,2027-01-14,plus,14295.41,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00130,C171,2026-02-06,2027-02-06,business,15962.99,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00131,C190,2025-02-23,2027-02-23,plus,17203.28,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00132,C111,2026-01-23,2027-01-23,basic,200.90,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00133,C224,2024-05-21,2025-05-21,basic,4529.88,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00134,C040,2026-01-09,2029-01-08,basic,3634.52,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00135,C193,2026-08-14,2028-08-13,basic,16207.73,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00136,C219,2026-05-23,2029-05-22,basic,10531.43,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00137,C099,2025-03-24,2026-03-24,plus,7504.40,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00138,C033,2024-01-26,2027-01-25,plus,14278.06,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00139,C204,2026-04-02,2028-04-01,plus,6879.71,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00140,C100,2025-08-26,2026-08-26,basic,13224.48,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00141,C071,2025-11-06,2028-11-05,plus,2880.37,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00142,C136,2026-07-27,2028-07-26,business,13947.19,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00143,C044,2025-10-24,2026-10-24,plus,431.01,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00144,C145,2026-10-05,2029-10-04,basic,8959.11,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00145,C035,2026-07-30,2027-07-30,business,7536.91,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00146,C182,2024-11-07,2025-11-07,business,10658.23,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00147,C210,2024-03-17,2025-03-17,plus,722.44,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00148,C209,2026-04-03,2029-04-02,business,9848.04,non_renewing,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00149,C169,2026-06-14,2029-06-13,plus,6685.94,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00150,C049,2026-01-16,2029-01-15,business,9547.78,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00151,C165,2025-12-07,2026-12-07,business,6061.41,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00152,C032,2024-06-21,2025-06-21,basic,12192.02,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00153,C163,2025-09-12,2028-09-11,business,3068.43,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00154,C120,2025-11-24,2027-11-24,business,1759.22,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00155,C141,2024-03-02,2027-03-02,basic,8608.87,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00156,C042,2024-07-03,2026-07-03,plus,15591.00,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00157,C182,2025-11-23,2028-11-22,business,7777.42,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00158,C092,2024-10-20,2026-10-20,business,14672.65,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00159,C179,2026-12-31,2028-12-30,plus,9530.47,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00160,C010,2024-04-07,2027-04-07,business,11326.17,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00161,C041,2024-07-03,2027-07-03,business,16571.00,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00162,C037,2024-10-15,2025-10-15,plus,12936.91,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00163,C017,2026-09-30,2027-09-30,basic,6173.42,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00164,C037,2025-08-09,2026-08-09,plus,5054.04,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00165,C189,2024-07-24,2027-07-24,plus,7863.98,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00166,C030,2025-03-19,2026-03-19,basic,11694.55,manual,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00167,C231,2026-12-02,2029-12-01,business,803.01,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00168,C224,2025-04-24,2027-04-24,basic,16511.33,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00169,C138,2024-06-11,2026-06-11,plus,3790.31,manual,Business account terms include consolidated billing and bulk-order support.
+CTR00170,C111,2024-07-20,2026-07-20,plus,3093.42,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00171,C189,2024-06-23,2025-06-23,business,1762.18,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00172,C117,2024-11-24,2026-11-24,plus,12115.59,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00173,C194,2025-03-24,2028-03-23,business,11660.65,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00174,C218,2025-04-10,2028-04-09,plus,11781.33,auto,Business account terms include consolidated billing and bulk-order support.
+CTR00175,C194,2024-03-11,2025-03-11,plus,11408.46,auto,Annual membership includes standard delivery benefits and digital receipts.
+CTR00176,C011,2026-08-20,2029-08-19,business,10425.57,non_renewing,Annual membership includes standard delivery benefits and digital receipts.
+CTR00177,C086,2025-10-01,2027-10-01,business,11338.77,non_renewing,Business account terms include consolidated billing and bulk-order support.
+CTR00178,C062,2024-12-22,2025-12-22,business,12073.85,manual,Annual membership includes standard delivery benefits and digital receipts.
+CTR00179,C014,2025-12-11,2026-12-11,plus,906.63,auto,Plus membership includes enhanced delivery windows and selected promotional benefits.
+CTR00180,C034,2024-02-02,2026-02-01,basic,14599.18,non_renewing,Business account terms include consolidated billing and bulk-order support.

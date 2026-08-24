@@ -1,0 +1,41 @@
+﻿equipment_id,equipment_name,line_id
+EQ001,Checkweigher 001,L003
+EQ002,Cartoner 002,L002
+EQ003,Conveyor 003,L003
+EQ004,Filling Machine 004,L001
+EQ005,Filling Machine 005,L001
+EQ006,Cartoner 006,L003
+EQ007,Conveyor 007,L001
+EQ008,Conveyor 008,L003
+EQ009,Filling Machine 009,L003
+EQ010,Filling Machine 010,L003
+EQ011,Metal Detector 011,L002
+EQ012,Checkweigher 012,L003
+EQ013,Case Packer 013,L001
+EQ014,Conveyor 014,L002
+EQ015,Filling Machine 015,L001
+EQ016,Checkweigher 016,L002
+EQ017,Cartoner 017,L003
+EQ018,Label Applicator 018,L001
+EQ019,Filling Machine 019,L001
+EQ020,Case Packer 020,L002
+EQ021,Checkweigher 021,L001
+EQ022,Cartoner 022,L001
+EQ023,Checkweigher 023,L001
+EQ024,Label Applicator 024,L001
+EQ025,Filling Machine 025,L001
+EQ026,Cartoner 026,L001
+EQ027,Checkweigher 027,L003
+EQ028,Cartoner 028,L001
+EQ029,Label Applicator 029,L001
+EQ030,Cartoner 030,L001
+EQ031,Metal Detector 031,L002
+EQ032,Cartoner 032,L003
+EQ033,Checkweigher 033,L001
+EQ034,Conveyor 034,L001
+EQ035,Metal Detector 035,L003
+EQ036,Cartoner 036,L001
+EQ037,Label Applicator 037,L003
+EQ038,Filling Machine 038,L003
+EQ039,Filling Machine 039,L002
+EQ040,Palletizer 040,L001

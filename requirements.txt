@@ -1,0 +1,10 @@
+# Inventory-Bounded KG-RAG — Python 3.10+ 필요 (X | None 문법 사용)
+neo4j>=5.0          # Neo4j 드라이버 (KG 빌드/쿼리)
+openai>=1.0         # vLLM OpenAI-호환 엔드포인트 클라이언트 (생성/임베딩)
+pandas>=2.0         # 정형 CSV 로딩
+numpy>=1.24
+chromadb>=0.4       # 비정형 벡터 인덱스 (baseline: Hybrid/Router/Doc)
+
+# --- 그림 재현용 (fig_*.py) ---
+matplotlib>=3.7
+SciencePlots>=2.1   # ['science','ieee'] 스타일. 'ieee' 스타일은 시스템에 LaTeX 설치 필요

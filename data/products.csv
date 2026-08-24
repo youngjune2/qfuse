@@ -1,0 +1,21 @@
+﻿product_id,product_name,line_id,unit_cost,list_price,safety_stock
+PRD001,Arts and Crafts Storage Box,L003,4.2,8.26,1400
+PRD002,Liquid Laundry Detergent 2L,L002,3.1,5.97,1800
+PRD003,Tomato Pasta Sauce 680g,L001,1.15,2.24,2400
+PRD004,Colored Pencil Set 24ct,L003,3.4,7.48,1200
+PRD005,Paper Towels 6-Roll,L002,4.1,8.94,2100
+PRD006,Whole Grain Cereal 500g,L001,2.3,4.98,2000
+PRD007,Creamy Peanut Butter 510g,L001,2.05,4.48,1700
+PRD008,Sparkling Water 12-Pack,L001,3.65,6.98,2600
+PRD009,Frozen Mixed Vegetables 1kg,L001,2.15,4.76,1500
+PRD010,Dish Soap 750ml,L002,1.55,3.24,2200
+PRD011,Drawstring Trash Bags 30ct,L002,4.45,8.88,1600
+PRD012,All-Purpose Cleaner 1L,L002,1.8,3.78,1900
+PRD013,Facial Tissue 3-Pack,L002,2.6,5.48,2000
+PRD014,LED Light Bulb 4-Pack,L003,5.7,11.88,1100
+PRD015,Food Storage Containers 10pc,L002,6.2,12.98,1300
+PRD016,Cotton Bath Towels 2-Pack,L002,7.4,15.48,900
+PRD017,Kids Building Blocks 120pc,L003,8.6,17.98,1000
+PRD018,Acrylic Paint Set 12ct,L003,5.1,10.88,850
+PRD019,Chicken Recipe Pet Treats 400g,L001,3.3,6.98,1400
+PRD020,AA Alkaline Batteries 16-Pack,L003,6.8,13.98,1700
